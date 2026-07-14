@@ -1,0 +1,46 @@
+# 1. Ignore everything by default
+*
+
+# 2. Do NOT ignore the .gitignore file itself
+!.gitignore
+
+# 3. Do NOT ignore directories (so Git can search them)
+!**/
+
+# 4. Standard Image Formats
+!*.jpg
+!*.JPG
+!*.jpeg
+!*.JPEG
+!*.png
+!*.PNG
+!*.gif
+!*.GIF
+!*.webp
+!*.WEBP
+!*.avif
+!*.AVIF
+!*.bmp
+!*.BMP
+!*.tiff
+!*.TIFF
+!*.tif
+!*.TIF
+
+# 5. Icon Formats (Favicons, Apple & Windows App Icons)
+!*.ico
+!*.ICO
+!*.icns
+!*.ICNS
+!*.heic
+!*.HEIC
+
+# 6. Vector Logo Master & Source Files
+!*.svg
+!*.SVG
+!*.ai
+!*.AI
+!*.eps
+!*.EPS
+!*.pdf
+!*.PDF
