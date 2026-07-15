@@ -18,3 +18,341 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `spotify`: kept `dashboard-icons/spotify.svg` (priority 1), dropped alternates: dashboard-icons/spotify.png, svgl/spotify.svg
 - `visual-studio-code`: kept `dashboard-icons/visual-studio-code.svg` (priority 1), dropped alternates: dashboard-icons/visual-studio-code.png, jamfmanager-icons/Visual Studio Code.png
 - `zotero`: kept `dashboard-icons/zotero.png` (priority 1), dropped alternates: jamfmanager-icons/Zotero.png
+
+## full run
+
+- `1password`: kept `svgl/1password-light.svg` (priority 3), dropped alternates: svgl/1password-dark.svg, hcstech-icons/1Password.png
+- `abacatepay`: kept `svgl/abacatepay.svg` (priority 3), dropped alternates: svgl/abacatepay-wordmark.svg
+- `adobe-xd`: kept `svgl/adobe-xd.svg` (priority 3), dropped alternates: hcstech-icons/Adobe_XD.png
+- `ahooks`: kept `svgl/ahooks.svg` (priority 3), dropped alternates: svgl/ahooks-wordmark-dark.svg, svgl/ahooks-wordmark-light.svg
+- `ahrefs`: kept `svgl/ahrefs.svg` (priority 3), dropped alternates: svgl/ahrefs-wordmark-dark.svg, svgl/ahrefs-wordmark-light.svg
+- `airbnb`: kept `svgl/airbnb.svg` (priority 3), dropped alternates: svgl/airbnb-wordmark.svg
+- `airtable`: kept `dashboard-icons/airtable.svg` (priority 1), dropped alternates: dashboard-icons/airtable.png
+- `aliexpress`: kept `svgl/aliexpress-icon.svg` (priority 3), dropped alternates: svgl/aliexpress-logo.svg
+- `anaconda`: kept `dashboard-icons/anaconda.svg` (priority 1), dropped alternates: dashboard-icons/anaconda.png
+- `anthropic`: kept `svgl/anthropic_black.svg` (priority 3), dropped alternates: svgl/anthropic_white.svg, svgl/anthropic_black_wordmark.svg, svgl/anthropic_white_wordmark.svg
+- `antigravity`: kept `svgl/antigravity.svg` (priority 3), dropped alternates: svgl/antigravity-wordmark.svg
+- `anydesk`: kept `dashboard-icons/anydesk.svg` (priority 1), dropped alternates: dashboard-icons/anydesk.png
+- `apache-kafka`: kept `svgl/apache-kafka-light.svg` (priority 3), dropped alternates: svgl/apache-kafka-dark.svg, svgl/apache-kafka-wordmark-dark.svg, svgl/apache-kafka-wordmark-light.svg
+- `app-store`: kept `dashboard-icons/app-store.svg` (priority 1), dropped alternates: dashboard-icons/app-store.png
+- `apple`: kept `svgl/apple.svg` (priority 3), dropped alternates: svgl/apple_dark.svg
+- `apple-music`: kept `svgl/apple-music-icon.svg` (priority 3), dropped alternates: svgl/apple-music-wordmark-dark.svg, svgl/apple-music-wordmark-light.svg
+- `arc`: kept `svgl/arc.svg` (priority 3), dropped alternates: svgl/arc_dark.svg
+- `arc-fintech`: kept `svgl/arc_fintech_light.svg` (priority 3), dropped alternates: svgl/arc_fintech_dark.svg
+- `arduino`: kept `jamfmanager-icons/Arduino.png` (priority 4), dropped alternates: hcstech-icons/Arduino.png
+- `asana`: kept `dashboard-icons/asana.svg` (priority 1), dropped alternates: dashboard-icons/asana.png, svgl/asana-logo.svg, svgl/asana-wordmark-dark.svg, svgl/asana-wordmark-light.svg
+- `astro`: kept `svgl/astro-icon-light.svg` (priority 3), dropped alternates: svgl/astro-icon-dark.svg, svgl/astro-wordmark-dark.svg, svgl/astro-wordmark-light.svg
+- `audacity`: kept `dashboard-icons/audacity.svg` (priority 1), dropped alternates: dashboard-icons/audacity.png, jamfmanager-icons/Audacity.png, hcstech-icons/Audacity.png
+- `aws`: kept `svgl/aws_light.svg` (priority 3), dropped alternates: svgl/aws_dark.svg
+- `axiom`: kept `svgl/axiom-light.svg` (priority 3), dropped alternates: svgl/axiom-dark.svg, svgl/axiom-wordmark-dark.svg, svgl/axiom-wordmark-light.svg
+- `base-ui`: kept `svgl/base-ui.svg` (priority 3), dropped alternates: svgl/base-ui-dark.svg
+- `bash`: kept `svgl/bash.svg` (priority 3), dropped alternates: svgl/bash_dark.svg
+- `bbedit`: kept `jamfmanager-icons/BBEdit.png` (priority 4), dropped alternates: hcstech-icons/BBEdit.png
+- `better-auth`: kept `svgl/better-auth_light.svg` (priority 3), dropped alternates: svgl/better-auth_dark.svg, svgl/better-auth_wordmark_dark.svg, svgl/better-auth_wordmark_light.svg
+- `bitwarden`: kept `dashboard-icons/bitwarden.svg` (priority 1), dropped alternates: dashboard-icons/bitwarden.png, svgl/bitwarden.svg
+- `bklit`: kept `svgl/bklit-light.svg` (priority 3), dropped alternates: svgl/bklit-dark.svg
+- `blender`: kept `dashboard-icons/blender.svg` (priority 1), dropped alternates: dashboard-icons/blender.png, svgl/blender.svg, hcstech-icons/Blender.png
+- `bolt-new`: kept `svgl/bolt-new.svg` (priority 3), dropped alternates: svgl/bolt-new_dark.svg
+- `brave`: kept `dashboard-icons/brave.svg` (priority 1), dropped alternates: dashboard-icons/brave.png, svgl/brave.svg
+- `cal`: kept `svgl/cal.svg` (priority 3), dropped alternates: svgl/cal_dark.svg
+- `calibre`: kept `dashboard-icons/calibre.svg` (priority 1), dropped alternates: dashboard-icons/calibre.png
+- `cerebras`: kept `svgl/cerebras.svg` (priority 3), dropped alternates: svgl/cerebras-dark.svg, svgl/cerebras-wordmark-dark.svg, svgl/cerebras-wordmark.svg
+- `chatgpt`: kept `dashboard-icons/chatgpt.svg` (priority 1), dropped alternates: dashboard-icons/chatgpt.png
+- `chess`: kept `dashboard-icons/chess.svg` (priority 1), dropped alternates: dashboard-icons/chess.png
+- `cisco`: kept `svgl/cisco_light.svg` (priority 3), dropped alternates: svgl/cisco_dark.svg
+- `claude-ai`: kept `svgl/claude-ai-icon.svg` (priority 3), dropped alternates: svgl/claude-ai-wordmark-icon_dark.svg, svgl/claude-ai-wordmark-icon_light.svg
+- `clerk`: kept `svgl/clerk-icon-light.svg` (priority 3), dropped alternates: svgl/clerk-icon-dark.svg, svgl/clerk-wordmark-dark.svg, svgl/clerk-wordmark-light.svg
+- `clickup`: kept `dashboard-icons/clickup.svg` (priority 1), dropped alternates: dashboard-icons/clickup.png, svgl/clickup.svg, svgl/clickup-wordmark-dark.svg, svgl/clickup-wordmark.svg, hcstech-icons/ClickUp.png
+- `codex`: kept `dashboard-icons/codex.svg` (priority 1), dropped alternates: dashboard-icons/codex.png, svgl/codex_light.svg, svgl/codex_dark.svg, svgl/codex_wordmark_dark.svg, svgl/codex_wordmark_light.svg
+- `cohere`: kept `svgl/cohere.svg` (priority 3), dropped alternates: svgl/cohere_wordmark.svg
+- `coinbase`: kept `svgl/coinbase.svg` (priority 3), dropped alternates: svgl/coinbase-wordmark-dark.svg, svgl/coinbase-wordmark-light.svg
+- `conductor`: kept `svgl/conductor_light.svg` (priority 3), dropped alternates: svgl/conductor_dark.svg, svgl/conductor-wordmark_dark.svg, svgl/conductor-wordmark_light.svg
+- `convex`: kept `svgl/convex.svg` (priority 3), dropped alternates: svgl/convex_wordmark_dark.svg, svgl/convex_wordmark_light.svg
+- `copilot`: kept `svgl/copilot.svg` (priority 3), dropped alternates: svgl/copilot_dark.svg
+- `cryptomator`: kept `dashboard-icons/cryptomator.svg` (priority 1), dropped alternates: dashboard-icons/cryptomator.png
+- `curseforge`: kept `svgl/curseforge.svg` (priority 3), dropped alternates: svgl/curseforge-dark.svg, svgl/curseforge-wordmark-dark.svg, svgl/curseforge-wordmark.svg
+- `cursor`: kept `svgl/cursor_light.svg` (priority 3), dropped alternates: svgl/cursor_dark.svg, svgl/cursor_wordmark_dark.svg, svgl/cursor_wordmark_light.svg
+- `cyberduck`: kept `jamfmanager-icons/Cyberduck.png` (priority 4), dropped alternates: hcstech-icons/Cyberduck.png
+- `deepl`: kept `dashboard-icons/deepl.svg` (priority 1), dropped alternates: dashboard-icons/deepl.png
+- `deepseek`: kept `svgl/deepseek.svg` (priority 3), dropped alternates: svgl/deepseek_wordmark.svg
+- `deezer`: kept `dashboard-icons/deezer.svg` (priority 1), dropped alternates: dashboard-icons/deezer.png
+- `deno`: kept `svgl/deno.svg` (priority 3), dropped alternates: svgl/deno_dark.svg, svgl/deno_wordmark.svg, svgl/deno_wordmark_dark.svg
+- `devto`: kept `svgl/devto-light.svg` (priority 3), dropped alternates: svgl/devto-dark.svg
+- `discord`: kept `dashboard-icons/discord.svg` (priority 1), dropped alternates: dashboard-icons/discord.png, svgl/discord.svg, jamfmanager-icons/Discord.png
+- `docker`: kept `dashboard-icons/docker.svg` (priority 1), dropped alternates: dashboard-icons/docker.png, svgl/docker.svg, jamfmanager-icons/Docker.png
+- `documenso`: kept `svgl/documenso.svg` (priority 3), dropped alternates: svgl/documenso_dark.svg
+- `docus`: kept `svgl/docus-light.svg` (priority 3), dropped alternates: svgl/docus-dark.svg, svgl/docus-wordmark-dark.svg, svgl/docus-wordmark-light.svg
+- `dodo-payments`: kept `svgl/dodo-payments.svg` (priority 3), dropped alternates: svgl/dodo-payments-wordmark-dark.svg, svgl/dodo-payments-wordmark-light.svg
+- `dracula`: kept `svgl/dracula.svg` (priority 3), dropped alternates: svgl/dracula-dark.svg
+- `dribbble`: kept `svgl/dribbble.svg` (priority 3), dropped alternates: svgl/dribbble-wordmark-dark.svg, svgl/dribbble-wordmark-light.svg
+- `drizzle-orm`: kept `svgl/drizzle-orm_light.svg` (priority 3), dropped alternates: svgl/drizzle-orm_dark.svg
+- `dropbox`: kept `dashboard-icons/dropbox.svg` (priority 1), dropped alternates: dashboard-icons/dropbox.png, svgl/dropbox.svg, svgl/dropbox_wordmark.svg, svgl/dropbox_wordmark_dark.svg, jamfmanager-icons/Dropbox.png, hcstech-icons/Dropbox.png
+- `dub`: kept `svgl/dub.svg` (priority 3), dropped alternates: svgl/dub_dark_logo.svg, svgl/dub_dark_wordmark.svg, svgl/dub_light_wordmark.svg
+- `duckduckgo`: kept `dashboard-icons/duckduckgo.svg` (priority 1), dropped alternates: dashboard-icons/duckduckgo.png, svgl/duckduckgo.svg, svgl/duckduckgo-wordmark.svg
+- `effect`: kept `svgl/effect_light.svg` (priority 3), dropped alternates: svgl/effect_dark.svg
+- `electron`: kept `svgl/electron.svg` (priority 3), dropped alternates: hcstech-icons/Electron.png
+- `element`: kept `dashboard-icons/element.svg` (priority 1), dropped alternates: dashboard-icons/element.png
+- `emacs`: kept `dashboard-icons/emacs.svg` (priority 1), dropped alternates: dashboard-icons/emacs.png, svgl/emacs.svg
+- `endnote`: `jamfmanager-icons/EndNote 21.png` is byte-identical to `jamfmanager-icons/EndNote 20.png` — skipped as exact duplicate
+- `epicgames`: kept `svgl/epicgames-icon-light.svg` (priority 3), dropped alternates: svgl/epicgames-icon-dark.svg
+- `eslint`: kept `svgl/eslint-icon-light.svg` (priority 3), dropped alternates: svgl/eslint-icon-dark.svg, svgl/eslint-wordmark-dark.svg, svgl/eslint-wordmark-light.svg
+- `eve`: kept `svgl/eve-light.svg` (priority 3), dropped alternates: svgl/eve-dark.svg
+- `evernote`: kept `dashboard-icons/evernote.svg` (priority 1), dropped alternates: dashboard-icons/evernote.png
+- `expressjs`: kept `svgl/expressjs.svg` (priority 3), dropped alternates: svgl/expressjs_dark.svg
+- `facebook`: kept `svgl/facebook-icon.svg` (priority 3), dropped alternates: svgl/facebook-wordmark.svg
+- `fastify`: kept `svgl/fastify.svg` (priority 3), dropped alternates: svgl/fastify_dark.svg
+- `figma`: kept `dashboard-icons/figma.svg` (priority 1), dropped alternates: dashboard-icons/figma.png, svgl/figma.svg
+- `filezilla`: kept `dashboard-icons/filezilla.svg` (priority 1), dropped alternates: dashboard-icons/filezilla.png
+- `firebase`: kept `svgl/firebase.svg` (priority 3), dropped alternates: svgl/firebase-wordmark.svg
+- `firecrawl`: kept `svgl/firecrawl.svg` (priority 3), dropped alternates: svgl/firecrawl-dark.svg, svgl/firecrawl-dark-wordmark.svg, svgl/firecrawl-wordmark.svg
+- `firefox`: kept `dashboard-icons/firefox.svg` (priority 1), dropped alternates: dashboard-icons/firefox.png, svgl/firefox.svg, jamfmanager-icons/Firefox.png, hcstech-icons/Firefox.png
+- `flask`: kept `svgl/flask-light.svg` (priority 3), dropped alternates: svgl/flask-dark.svg, svgl/flask-wordmark-dark.svg, svgl/flask-wordmark-light.svg
+- `fonts`: kept `svgl/fonts.svg` (priority 3), dropped alternates: hcstech-icons/Fonts.png
+- `formance`: kept `svgl/formance-light.svg` (priority 3), dropped alternates: svgl/formance-dark.svg, svgl/formance-wordmark-dark.svg, svgl/formance-wordmark-light.svg
+- `forte`: kept `dashboard-icons/forte.svg` (priority 1), dropped alternates: dashboard-icons/forte.png
+- `framer`: kept `svgl/framer.svg` (priority 3), dropped alternates: svgl/framer_dark.svg
+- `franz`: kept `dashboard-icons/franz.svg` (priority 1), dropped alternates: dashboard-icons/franz.png
+- `gemini`: kept `svgl/gemini.svg` (priority 3), dropped alternates: svgl/gemini_wordmark.svg
+- `ghostty`: kept `dashboard-icons/ghostty.svg` (priority 1), dropped alternates: dashboard-icons/ghostty.png, svgl/ghostty.svg, svgl/ghostty_wordmark_dark.svg, svgl/ghostty_wordmark_light.svg
+- `gimp`: kept `dashboard-icons/gimp.svg` (priority 1), dropped alternates: dashboard-icons/gimp.png, svgl/gimp.svg
+- `github`: kept `svgl/github_light.svg` (priority 3), dropped alternates: svgl/github_dark.svg, svgl/github_wordmark_dark.svg, svgl/github_wordmark_light.svg
+- `glide`: kept `svgl/glide_light.svg` (priority 3), dropped alternates: svgl/glide_dark.svg, svgl/glide_dark_wordmark.svg, svgl/glide_light_wordmark.svg
+- `godaddy`: kept `svgl/godaddy.svg` (priority 3), dropped alternates: svgl/godaddy_dark.svg
+- `godot`: kept `dashboard-icons/godot.svg` (priority 1), dropped alternates: dashboard-icons/godot.png
+- `goil`: kept `svgl/goil.svg` (priority 3), dropped alternates: svgl/goil-dark.svg, svgl/goil-wordmark-dark.svg, svgl/goil-wordmark.svg
+- `golang`: kept `dashboard-icons/golang.svg` (priority 1), dropped alternates: dashboard-icons/golang.png, svgl/golang.svg, svgl/golang_dark.svg
+- `google`: kept `svgl/google.svg` (priority 3), dropped alternates: svgl/google-wordmark.svg
+- `google-chrome`: kept `dashboard-icons/google-chrome.svg` (priority 1), dropped alternates: dashboard-icons/google-chrome.png, jamfmanager-icons/Google Chrome.png, hcstech-icons/Google_Chrome.png
+- `googleplay`: kept `svgl/googleplay.svg` (priority 3), dropped alternates: svgl/googleplay-wordmark-dark.svg, svgl/googleplay-wordmark-light.svg
+- `granola`: kept `svgl/granola-light.svg` (priority 3), dropped alternates: svgl/granola-dark.svg, svgl/granola-wordmark-dark.svg, svgl/granola-wordmark-light.svg
+- `grida`: kept `svgl/grida-light.svg` (priority 3), dropped alternates: svgl/grida-dark.svg, svgl/grida-wordmark-dark.svg, svgl/grida-wordmark-light.svg
+- `grok`: kept `svgl/grok-light.svg` (priority 3), dropped alternates: svgl/grok-dark.svg, svgl/grok-wordmark-dark.svg, svgl/grok-wordmark-light.svg
+- `groq`: kept `svgl/groq.svg` (priority 3), dropped alternates: svgl/groq_wordmark_dark.svg, svgl/groq_wordmark_light.svg
+- `hack-the-box`: kept `svgl/hack-the-box.svg` (priority 3), dropped alternates: svgl/hack-the-box-wordmark-dark.svg, svgl/hack-the-box-wordmark-light.svg
+- `handbrake`: kept `dashboard-icons/handbrake.svg` (priority 1), dropped alternates: dashboard-icons/handbrake.png, jamfmanager-icons/Handbrake.png
+- `heroui`: kept `svgl/heroui_black.svg` (priority 3), dropped alternates: svgl/heroui_light.svg
+- `home-assistant`: kept `svgl/home-assistant.svg` (priority 3), dropped alternates: svgl/home-assistant-wordmark-dark.svg, svgl/home-assistant-wordmark.svg
+- `hoppscotch`: kept `dashboard-icons/hoppscotch.svg` (priority 1), dropped alternates: dashboard-icons/hoppscotch.png, svgl/hoppscotch.svg
+- `hotmart`: kept `svgl/hotmart.svg` (priority 3), dropped alternates: svgl/hotmart-wordmark.svg
+- `hulu`: kept `svgl/hulu.svg` (priority 3), dropped alternates: svgl/hulu-dark.svg
+- `idrive`: kept `dashboard-icons/idrive.svg` (priority 1), dropped alternates: dashboard-icons/idrive.png
+- `inflectionai`: kept `svgl/inflectionai_light.svg` (priority 3), dropped alternates: svgl/inflectionai_dark.svg, svgl/inflectionai_wordmark_dark.svg, svgl/inflectionai_wordmark_light.svg
+- `inngest`: kept `svgl/inngest-light.svg` (priority 3), dropped alternates: svgl/inngest-dark.svg
+- `instagram`: kept `svgl/instagram-icon.svg` (priority 3), dropped alternates: svgl/instagram-wordmark.svg
+- `instatus`: kept `svgl/instatus.svg` (priority 3), dropped alternates: svgl/instatus_dark.svg
+- `intello`: kept `svgl/intello-light.svg` (priority 3), dropped alternates: svgl/intello-dark.svg, svgl/intello_wordmark_dark.svg, svgl/intello_wordmark_light.svg
+- `interfere`: kept `svgl/interfere_black.svg` (priority 3), dropped alternates: svgl/interfere_white.svg, svgl/interfere_wordmark_black.svg, svgl/interfere_wordmark_white.svg
+- `intlayer`: kept `svgl/intlayer-light.svg` (priority 3), dropped alternates: svgl/intlayer-dark.svg
+- `java`: kept `svgl/java.svg` (priority 3), dropped alternates: hcstech-icons/Java.png
+- `joplin`: kept `dashboard-icons/joplin.svg` (priority 1), dropped alternates: dashboard-icons/joplin.png
+- `jquery`: kept `svgl/jquery.svg` (priority 3), dropped alternates: svgl/jquery_dark.svg
+- `keepassxc`: kept `dashboard-icons/keepassxc.svg` (priority 1), dropped alternates: dashboard-icons/keepassxc.png
+- `kibo-ui`: kept `svgl/kibo-ui-light.svg` (priority 3), dropped alternates: svgl/kibo-ui-dark.svg
+- `kick`: kept `svgl/kick-light.svg` (priority 3), dropped alternates: svgl/kick-dark.svg
+- `kilocode`: kept `svgl/kilocode-light.svg` (priority 3), dropped alternates: svgl/kilocode-dark.svg
+- `kimi`: kept `svgl/kimi-icon.svg` (priority 3), dropped alternates: svgl/kimi-wordmark-dark.svg, svgl/kimi-wordmark-light.svg
+- `kokonutui`: kept `svgl/kokonutui-light.svg` (priority 3), dropped alternates: svgl/kokonutui-dark.svg
+- `langchain`: kept `svgl/langchain-logo.svg` (priority 3), dropped alternates: svgl/langchain-wordmark-dark.svg, svgl/langchain-wordmark-light.svg
+- `lastpass`: kept `dashboard-icons/lastpass.svg` (priority 1), dropped alternates: dashboard-icons/lastpass.png
+- `layers`: kept `svgl/layers_light.svg` (priority 3), dropped alternates: svgl/layers_dark.svg
+- `leap-wallet`: kept `svgl/leap-wallet.svg` (priority 3), dropped alternates: svgl/leap-wallet-wordmark-dark.svg, svgl/leap-wallet-wordmark-light.svg
+- `libreoffice`: kept `dashboard-icons/libreoffice.svg` (priority 1), dropped alternates: dashboard-icons/libreoffice.png, jamfmanager-icons/LibreOffice.png
+- `linear`: kept `dashboard-icons/linear.svg` (priority 1), dropped alternates: dashboard-icons/linear.png, svgl/linear.svg
+- `link`: kept `svgl/link.svg` (priority 3), dropped alternates: svgl/link-wordmark-dark.svg, svgl/link-wordmark-light.svg
+- `logseq`: kept `dashboard-icons/logseq.svg` (priority 1), dropped alternates: dashboard-icons/logseq.png
+- `lottiefiles`: kept `svgl/lottiefiles.svg` (priority 3), dropped alternates: svgl/lottiefiles-wordmark-dark.svg, svgl/lottiefiles-wordmark-light.svg
+- `manus`: kept `svgl/manus.svg` (priority 3), dropped alternates: svgl/manus-dark.svg, svgl/manus-wordmark-dark.svg, svgl/manus-wordmark.svg
+- `markdown`: kept `svgl/markdown-light.svg` (priority 3), dropped alternates: svgl/markdown-dark.svg
+- `matrix`: kept `svgl/matrix-light.svg` (priority 3), dropped alternates: svgl/matrix-dark.svg
+- `mattermost`: kept `dashboard-icons/mattermost.svg` (priority 1), dropped alternates: dashboard-icons/mattermost.png, svgl/mattermost-light.svg, svgl/mattermost-dark.svg
+- `mediawiki`: kept `svgl/mediawiki.svg` (priority 3), dropped alternates: svgl/mediawiki-wordmark-dark.svg, svgl/mediawiki-wordmark-light.svg
+- `mercado-libre`: kept `svgl/mercado-libre.svg` (priority 3), dropped alternates: svgl/mercado-libre-wordmark.svg
+- `mercado-pago`: kept `svgl/mercado-pago.svg` (priority 3), dropped alternates: svgl/mercado-pago-wordmark.svg
+- `mermaid`: kept `svgl/mermaid-logo-light.svg` (priority 3), dropped alternates: svgl/mermaid-logo-dark.svg
+- `messenger`: kept `svgl/messenger.svg` (priority 3), dropped alternates: hcstech-icons/Messenger.png
+- `microsoft-defender`: kept `svgl/microsoft-defender.svg` (priority 3), dropped alternates: jamfmanager-icons/Microsoft Defender.png, hcstech-icons/Microsoft_Defender.png
+- `microsoft-edge`: kept `jamfmanager-icons/Microsoft Edge.png` (priority 4), dropped alternates: hcstech-icons/Microsoft_Edge.png
+- `microsoft-excel`: kept `dashboard-icons/microsoft-excel.svg` (priority 1), dropped alternates: dashboard-icons/microsoft-excel.png, svgl/microsoft-excel.svg, jamfmanager-icons/Microsoft Excel.png, hcstech-icons/Microsoft_Excel.png
+- `microsoft-onedrive`: kept `svgl/microsoft-onedrive.svg` (priority 3), dropped alternates: jamfmanager-icons/Microsoft OneDrive.png, hcstech-icons/Microsoft_OneDrive.png
+- `microsoft-onenote`: kept `dashboard-icons/microsoft-onenote.svg` (priority 1), dropped alternates: dashboard-icons/microsoft-onenote.png, svgl/microsoft-onenote.svg, jamfmanager-icons/Microsoft OneNote.png, hcstech-icons/Microsoft_OneNote.png
+- `microsoft-outlook`: kept `dashboard-icons/microsoft-outlook.svg` (priority 1), dropped alternates: dashboard-icons/microsoft-outlook.png, svgl/microsoft-outlook.svg, jamfmanager-icons/Microsoft Outlook.png, hcstech-icons/Microsoft_Outlook.png
+- `microsoft-powerpoint`: kept `dashboard-icons/microsoft-powerpoint.svg` (priority 1), dropped alternates: dashboard-icons/microsoft-powerpoint.png, svgl/microsoft-powerpoint.svg, jamfmanager-icons/Microsoft PowerPoint.png, hcstech-icons/Microsoft_PowerPoint.png
+- `microsoft-teams`: kept `svgl/microsoft-teams.svg` (priority 3), dropped alternates: jamfmanager-icons/MIcrosoft Teams.png, jamfmanager-icons/Microsoft Teams.png, hcstech-icons/Microsoft_Teams.png
+- `microsoft-word`: kept `dashboard-icons/microsoft-word.svg` (priority 1), dropped alternates: dashboard-icons/microsoft-word.png, svgl/microsoft-word.svg, jamfmanager-icons/Microsoft Word.png, hcstech-icons/Microsoft_Word.png
+- `midjourney`: kept `svgl/midjourney.svg` (priority 3), dropped alternates: svgl/midjourney-dark.svg
+- `milanote`: kept `svgl/milanote-light.svg` (priority 3), dropped alternates: svgl/milanote-dark.svg, svgl/milanote-wordmark-dark.svg, svgl/milanote-wordmark-light.svg
+- `mintlify`: kept `svgl/mintlify.svg` (priority 3), dropped alternates: svgl/mintlify_wordmark_dark.svg, svgl/mintlify_wordmark_light.svg
+- `miro`: kept `dashboard-icons/miro.svg` (priority 1), dropped alternates: dashboard-icons/miro.png
+- `mistral-ai`: kept `svgl/mistral-ai_logo.svg` (priority 3), dropped alternates: svgl/mistral-ai_wordmark.svg
+- `mocha`: kept `svgl/mocha-light.svg` (priority 3), dropped alternates: svgl/mocha-dark.svg, svgl/mocha-dark_wordmark.svg, svgl/mocha-light_wordmark.svg
+- `model-context-protocol`: kept `svgl/model-context-protocol-light.svg` (priority 3), dropped alternates: svgl/model-context-protocol-dark.svg, svgl/model-context-protocol-wordmark-dark.svg, svgl/model-context-protocol-wordmark-light.svg
+- `mongodb`: kept `svgl/mongodb-icon-light.svg` (priority 3), dropped alternates: svgl/mongodb-icon-dark.svg, svgl/mongodb-wordmark-dark.svg, svgl/mongodb-wordmark-light.svg
+- `monkeytype`: kept `svgl/monkeytype.svg` (priority 3), dropped alternates: svgl/monkeytype-wordmark-dark.svg, svgl/monkeytype-wordmark-light.svg
+- `motion`: kept `svgl/motion.svg` (priority 3), dropped alternates: svgl/motion_dark.svg
+- `musescore`: kept `dashboard-icons/musescore.svg` (priority 1), dropped alternates: dashboard-icons/musescore.png
+- `mysql`: kept `svgl/mysql-icon-light.svg` (priority 3), dropped alternates: svgl/mysql-icon-dark.svg, svgl/mysql-wordmark-dark.svg, svgl/mysql-wordmark-light.svg
+- `n8n`: kept `svgl/n8n.svg` (priority 3), dropped alternates: svgl/n8n-wordmark-dark.svg, svgl/n8n-wordmark-light.svg
+- `nano`: kept `svgl/nano.svg` (priority 3), dropped alternates: svgl/nano-white.svg, svgl/nano-wordmark-white.svg, svgl/nano-wordmark.svg
+- `neon`: kept `svgl/neon.svg` (priority 3), dropped alternates: svgl/neon-wordmark-dark.svg, svgl/neon-wordmark-light.svg
+- `netflix`: kept `svgl/netflix-icon.svg` (priority 3), dropped alternates: svgl/netflix-wordmark.svg
+- `nextcloud`: kept `dashboard-icons/nextcloud.svg` (priority 1), dropped alternates: dashboard-icons/nextcloud.png
+- `nextdns`: kept `dashboard-icons/nextdns.svg` (priority 1), dropped alternates: dashboard-icons/nextdns.png
+- `nextjs`: kept `svgl/nextjs_logo_light.svg` (priority 3), dropped alternates: svgl/nextjs_icon_dark.svg, svgl/nextjs_logo_dark.svg
+- `ngrok`: kept `svgl/ngrok-light.svg` (priority 3), dropped alternates: svgl/ngrok-dark.svg
+- `nodejs`: kept `dashboard-icons/nodejs.svg` (priority 1), dropped alternates: dashboard-icons/nodejs.png, svgl/nodejs.svg, jamfmanager-icons/NodeJS.png
+- `nomad`: kept `dashboard-icons/nomad.svg` (priority 1), dropped alternates: dashboard-icons/nomad.png
+- `nordvpn`: kept `dashboard-icons/nordvpn.svg` (priority 1), dropped alternates: dashboard-icons/nordvpn.png
+- `notion`: kept `dashboard-icons/notion.svg` (priority 1), dropped alternates: dashboard-icons/notion.png, svgl/notion.svg
+- `npm`: kept `svgl/npm.svg` (priority 3), dropped alternates: svgl/npm-wordmark.svg
+- `nuqs`: kept `svgl/nuqs.svg` (priority 3), dropped alternates: svgl/nuqs_dark.svg, svgl/nuqs-wordmark.svg, svgl/nuqs-wordmark_dark.svg
+- `nuxt`: kept `svgl/nuxt.svg` (priority 3), dropped alternates: svgl/nuxt-wordmark-dark.svg, svgl/nuxt-wordmark-light.svg
+- `nuxt-content`: kept `svgl/nuxt-content-wordmark-dark.svg` (priority 3), dropped alternates: svgl/nuxt-content-wordmark-light.svg
+- `nuxt-studio`: kept `svgl/nuxt-studio-wordmark-dark.svg` (priority 3), dropped alternates: svgl/nuxt-studio-wordmark-light.svg
+- `nuxt-ui`: kept `svgl/nuxt-ui-wordmark-dark.svg` (priority 3), dropped alternates: svgl/nuxt-ui-wordmark-light.svg
+- `nuxthub`: kept `svgl/nuxthub.svg` (priority 3), dropped alternates: svgl/nuxthub-wordmark-dark.svg, svgl/nuxthub-wordmark-light.svg
+- `nvidia`: kept `svgl/nvidia-icon-light.svg` (priority 3), dropped alternates: svgl/nvidia-icon-dark.svg, svgl/nvidia-wordmark-dark.svg, svgl/nvidia-wordmark-light.svg
+- `nx`: kept `svgl/nx_light.svg` (priority 3), dropped alternates: svgl/nx_dark.svg
+- `obs`: kept `svgl/obs.svg` (priority 3), dropped alternates: hcstech-icons/OBS.png
+- `obsidian`: kept `dashboard-icons/obsidian.svg` (priority 1), dropped alternates: dashboard-icons/obsidian.png, svgl/obsidian.svg
+- `ollama`: kept `dashboard-icons/ollama.svg` (priority 1), dropped alternates: dashboard-icons/ollama.png, svgl/ollama_light.svg, svgl/ollama_dark.svg
+- `openai`: kept `svgl/openai.svg` (priority 3), dropped alternates: svgl/openai_dark.svg, svgl/openai_wordmark_dark.svg, svgl/openai_wordmark_light.svg
+- `opencode`: kept `svgl/opencode.svg` (priority 3), dropped alternates: svgl/opencode-dark.svg, svgl/opencode-wordmark-dark.svg, svgl/opencode-wordmark.svg
+- `openrouter`: kept `svgl/openrouter_light.svg` (priority 3), dropped alternates: svgl/openrouter_dark.svg
+- `opera`: kept `dashboard-icons/opera.svg` (priority 1), dropped alternates: dashboard-icons/opera.png, svgl/opera.svg
+- `origin`: kept `dashboard-icons/origin.svg` (priority 1), dropped alternates: dashboard-icons/origin.png
+- `orshot`: kept `svgl/orshot.svg` (priority 3), dropped alternates: svgl/orshot_wordmark_dark.svg, svgl/orshot_wordmark_light.svg
+- `owncloud`: kept `dashboard-icons/owncloud.svg` (priority 1), dropped alternates: dashboard-icons/owncloud.png
+- `paper`: kept `svgl/paper.svg` (priority 3), dropped alternates: svgl/paper-wordmark-dark.svg, svgl/paper-wordmark-light.svg
+- `parallels-desktop`: kept `jamfmanager-icons/Parallels Desktop 18.png` (priority 4), dropped alternates: jamfmanager-icons/Parallels Desktop 19.png, jamfmanager-icons/Parallels Desktop 20.png
+- `patreon`: kept `svgl/patreon.svg` (priority 3), dropped alternates: svgl/patreon_dark.svg
+- `payload`: kept `svgl/payload.svg` (priority 3), dropped alternates: svgl/payload_dark.svg
+- `paypal`: kept `svgl/paypal.svg` (priority 3), dropped alternates: svgl/paypal-wordmark.svg
+- `penpot`: kept `svgl/penpot.svg` (priority 3), dropped alternates: svgl/penpot_dark.svg
+- `perplexity`: kept `svgl/perplexity.svg` (priority 3), dropped alternates: svgl/perplexity_wordmark_dark.svg, svgl/perplexity_wordmark_light.svg
+- `perspective`: kept `svgl/perspective-light.svg` (priority 3), dropped alternates: svgl/perspective-dark.svg, svgl/perspective-wordmark-dark.svg, svgl/perspective-wordmark-light.svg
+- `pgadmin`: kept `dashboard-icons/pgadmin.svg` (priority 1), dropped alternates: dashboard-icons/pgadmin.png
+- `php`: kept `svgl/php.svg` (priority 3), dropped alternates: svgl/php_dark.svg
+- `planetscale`: kept `svgl/planetscale.svg` (priority 3), dropped alternates: svgl/planetscale_dark.svg
+- `pnpm`: kept `svgl/pnpm.svg` (priority 3), dropped alternates: svgl/pnpm_dark.svg, svgl/pnpm_wordmark_dark.svg, svgl/pnpm_wordmark_light.svg
+- `podman`: kept `dashboard-icons/podman.svg` (priority 1), dropped alternates: dashboard-icons/podman.png
+- `polar-sh`: kept `svgl/polar-sh_light.svg` (priority 3), dropped alternates: svgl/polar-sh_dark.svg
+- `postcss`: kept `svgl/postcss.svg` (priority 3), dropped alternates: svgl/postcss_wordmark.svg
+- `postgresql`: kept `svgl/postgresql.svg` (priority 3), dropped alternates: svgl/postgresql-wordmark-dark.svg, svgl/postgresql-wordmark-light.svg
+- `posthog`: kept `svgl/posthog.svg` (priority 3), dropped alternates: svgl/posthog-wordmark.svg, svgl/posthog-wordmark_dark.svg
+- `postman`: kept `dashboard-icons/postman.svg` (priority 1), dropped alternates: dashboard-icons/postman.png, svgl/postman.svg
+- `postqued`: kept `svgl/postqued-light.svg` (priority 3), dropped alternates: svgl/postqued-dark.svg
+- `powersync`: kept `svgl/powersync.svg` (priority 3), dropped alternates: svgl/powersync-wordmark-dark.svg, svgl/powersync-wordmark-light.svg
+- `prettier`: kept `svgl/prettier-icon-light.svg` (priority 3), dropped alternates: svgl/prettier-icon-dark.svg
+- `prisma`: kept `svgl/prisma.svg` (priority 3), dropped alternates: svgl/prisma_dark.svg
+- `pritunl`: kept `dashboard-icons/pritunl.svg` (priority 1), dropped alternates: dashboard-icons/pritunl.png
+- `protonmail`: kept `svgl/protonmail.svg` (priority 3), dropped alternates: svgl/protonmail-wordmark.svg
+- `protonvpn`: kept `svgl/protonvpn.svg` (priority 3), dropped alternates: svgl/protonvpn-wordmark.svg
+- `pycharm`: kept `svgl/pycharm.svg` (priority 3), dropped alternates: hcstech-icons/Pycharm.png
+- `python`: kept `dashboard-icons/python.svg` (priority 1), dropped alternates: dashboard-icons/python.png, svgl/python.svg
+- `qdrant`: kept `svgl/qdrant-icon-light.svg` (priority 3), dropped alternates: svgl/qdrant-icon-dark.svg, svgl/qdrant-wordmark-dark.svg, svgl/qdrant-wordmark-light.svg
+- `qwen`: kept `svgl/qwen_light.svg` (priority 3), dropped alternates: svgl/qwen_dark.svg
+- `r`: kept `dashboard-icons/r.svg` (priority 1), dropped alternates: dashboard-icons/r.png, svgl/r.svg, svgl/r_dark.svg, jamfmanager-icons/R.png
+- `radix-ui`: kept `svgl/radix-ui_light.svg` (priority 3), dropped alternates: svgl/radix-ui_dark.svg
+- `railway`: kept `svgl/railway.svg` (priority 3), dropped alternates: svgl/railway_dark.svg
+- `raycast`: kept `svgl/raycast.svg` (priority 3), dropped alternates: svgl/raycast-wordmark-dark.svg, svgl/raycast-wordmark-light.svg
+- `react`: kept `svgl/react_light.svg` (priority 3), dropped alternates: svgl/react_dark.svg, svgl/react_wordmark_dark.svg, svgl/react_wordmark_light.svg
+- `react-wheel-picker`: kept `svgl/react-wheel-picker_light.svg` (priority 3), dropped alternates: svgl/react-wheel-picker_dark.svg
+- `refine`: kept `svgl/refine_light.svg` (priority 3), dropped alternates: svgl/refine_dark.svg
+- `reflex`: kept `svgl/reflex-light.svg` (priority 3), dropped alternates: svgl/reflex-dark.svg
+- `relagit`: kept `svgl/relagit-icon-light.svg` (priority 3), dropped alternates: svgl/relagit-icon-dark.svg, svgl/relagit-wordmark-dark.svg, svgl/relagit-wordmark-light.svg
+- `remix`: kept `svgl/remix_light.svg` (priority 3), dropped alternates: svgl/remix_dark.svg, svgl/remix_wordmark_dark.svg, svgl/remix_wordmark_light.svg
+- `render`: kept `svgl/render_black.svg` (priority 3), dropped alternates: svgl/render_white.svg, svgl/render_wordmark_black.svg, svgl/render_wordmark_white.svg
+- `replicate`: kept `svgl/replicate_light.svg` (priority 3), dropped alternates: svgl/replicate_dark.svg, svgl/replicate-wordmark_dark.svg, svgl/replicate-wordmark_light.svg
+- `replit`: kept `svgl/replit.svg` (priority 3), dropped alternates: svgl/replit-wordmark-dark.svg, svgl/replit-wordmark-light.svg
+- `resend`: kept `svgl/resend-icon-black.svg` (priority 3), dropped alternates: svgl/resend-icon-white.svg, svgl/resend-wordmark-black.svg, svgl/resend-wordmark-white.svg
+- `roblox`: kept `svgl/roblox.svg` (priority 3), dropped alternates: svgl/roblox_light.svg
+- `rstudio`: kept `dashboard-icons/rstudio.svg` (priority 1), dropped alternates: dashboard-icons/rstudio.png, jamfmanager-icons/RStudio.png
+- `rust`: kept `svgl/rust.svg` (priority 3), dropped alternates: svgl/rust_dark.svg
+- `rustdesk`: kept `dashboard-icons/rustdesk.svg` (priority 1), dropped alternates: dashboard-icons/rustdesk.png
+- `safari`: kept `dashboard-icons/safari.svg` (priority 1), dropped alternates: dashboard-icons/safari.png, svgl/safari.svg
+- `sanity`: kept `svgl/sanity-light.svg` (priority 3), dropped alternates: svgl/sanity-dark.svg, svgl/sanity-wordmark-dark.svg, svgl/sanity-wordmark-light.svg
+- `shadcn-ui`: kept `svgl/shadcn-ui.svg` (priority 3), dropped alternates: svgl/shadcn-ui_dark.svg
+- `shopify`: kept `svgl/shopify.svg` (priority 3), dropped alternates: svgl/shopify-wordmark-dark.svg, svgl/shopify-wordmark-light.svg
+- `signal`: kept `dashboard-icons/signal.svg` (priority 1), dropped alternates: dashboard-icons/signal.png
+- `sketch`: kept `svgl/sketch.svg` (priority 3), dropped alternates: svgl/sketch_light.svg
+- `skype`: kept `dashboard-icons/skype.svg` (priority 1), dropped alternates: dashboard-icons/skype.png, svgl/skype.svg, jamfmanager-icons/Skype.png
+- `slack`: kept `dashboard-icons/slack.svg` (priority 1), dropped alternates: dashboard-icons/slack.png, svgl/slack.svg, svgl/slack-wordmark.svg, hcstech-icons/Slack.png
+- `socketio`: kept `svgl/socketio-icon-light.svg` (priority 3), dropped alternates: svgl/socketio-icon-dark.svg, svgl/socketio-wordmark-dark.svg, svgl/socketio-wordmark-light.svg
+- `soldera`: kept `svgl/soldera-icon.svg` (priority 3), dropped alternates: svgl/soldera-icon-light.svg, svgl/soldera-wordmark-dark.svg, svgl/soldera-wordmark-light.svg
+- `sonos`: kept `dashboard-icons/sonos.svg` (priority 1), dropped alternates: dashboard-icons/sonos.png
+- `soundcloud`: kept `svgl/soundcloud-logo.svg` (priority 3), dropped alternates: svgl/soundcloud-logo_dark.svg, svgl/soundcloud-wordmark.svg, svgl/soundcloud-wordmark_dark.svg
+- `spark`: kept `dashboard-icons/spark.svg` (priority 1), dropped alternates: dashboard-icons/spark.png
+- `spotify`: kept `dashboard-icons/spotify.svg` (priority 1), dropped alternates: dashboard-icons/spotify.png, svgl/spotify.svg, svgl/spotify_wordmark.svg
+- `spring`: kept `svgl/spring.svg` (priority 3), dropped alternates: svgl/spring-wordmark.svg
+- `sqlitebrowser`: kept `dashboard-icons/sqlitebrowser.svg` (priority 1), dropped alternates: dashboard-icons/sqlitebrowser.png
+- `stackoverflow`: kept `svgl/stackoverflow.svg` (priority 3), dropped alternates: svgl/stackoverflow_wordmark.svg
+- `stately`: kept `svgl/stately.svg` (priority 3), dropped alternates: svgl/stately_dark.svg
+- `steam`: kept `dashboard-icons/steam.svg` (priority 1), dropped alternates: dashboard-icons/steam.png, svgl/steam.svg
+- `stripe`: kept `svgl/stripe.svg` (priority 3), dropped alternates: svgl/stripe_wordmark.svg
+- `suno`: kept `svgl/suno.svg` (priority 3), dropped alternates: svgl/suno_wordmark_dark.svg, svgl/suno_wordmark_light.svg
+- `supabase`: kept `svgl/supabase.svg` (priority 3), dropped alternates: svgl/supabase_wordmark_dark.svg, svgl/supabase_wordmark_light.svg
+- `suspicious-package`: kept `jamfmanager-icons/Suspicious Package.png` (priority 4), dropped alternates: hcstech-icons/Suspicious_Package.png
+- `svg`: kept `svgl/svg.svg` (priority 3), dropped alternates: svgl/svg_wordmark.svg
+- `swift`: kept `svgl/swift.svg` (priority 3), dropped alternates: hcstech-icons/Swift.png
+- `swr`: kept `svgl/swr-light.svg` (priority 3), dropped alternates: svgl/swr-dark.svg
+- `t3`: kept `svgl/t3-light.svg` (priority 3), dropped alternates: svgl/t3-dark.svg
+- `tailscale`: kept `dashboard-icons/tailscale.svg` (priority 1), dropped alternates: dashboard-icons/tailscale.png
+- `tailwindcss`: kept `svgl/tailwindcss.svg` (priority 3), dropped alternates: svgl/tailwindcss-wordmark-dark.svg, svgl/tailwindcss-wordmark.svg
+- `telegram`: kept `dashboard-icons/telegram.svg` (priority 1), dropped alternates: dashboard-icons/telegram.png, svgl/telegram.svg
+- `tembo`: kept `svgl/tembo.svg` (priority 3), dropped alternates: svgl/tembo-dark.svg, svgl/tembo-wordmark-dark.svg, svgl/tembo-wordmark.svg
+- `tensorflow`: kept `svgl/tensorflow-icon-light.svg` (priority 3), dropped alternates: svgl/tensorflow-icon-dark.svg, svgl/tensorflow-wordmark-dark.svg, svgl/tensorflow-wordmark-light.svg
+- `terminal`: kept `dashboard-icons/terminal.svg` (priority 1), dropped alternates: dashboard-icons/terminal.png
+- `threads`: kept `svgl/threads.svg` (priority 3), dropped alternates: svgl/threads_dark.svg
+- `threejs`: kept `svgl/threejs-light.svg` (priority 3), dropped alternates: svgl/threejs-dark.svg
+- `thunderbird`: kept `dashboard-icons/thunderbird.svg` (priority 1), dropped alternates: dashboard-icons/thunderbird.png
+- `tidal`: kept `dashboard-icons/tidal.svg` (priority 1), dropped alternates: dashboard-icons/tidal.png, svgl/tidal_light.svg, svgl/tidal_dark.svg, svgl/tidal_wordmark_dark.svg, svgl/tidal_wordmark_light.svg
+- `tiktok`: kept `svgl/tiktok-icon-light.svg` (priority 3), dropped alternates: svgl/tiktok-icon-dark.svg, svgl/tiktok-wordmark-dark.svg, svgl/tiktok-wordmark-light.svg
+- `tina`: kept `svgl/tina.svg` (priority 3), dropped alternates: svgl/tina_wordmark.svg
+- `todoist`: kept `dashboard-icons/todoist.svg` (priority 1), dropped alternates: dashboard-icons/todoist.png, svgl/todoist.svg, svgl/todoist-wordmark.svg
+- `togetherai`: kept `svgl/togetherai_light.svg` (priority 3), dropped alternates: svgl/togetherai_dark.svg
+- `travelperk`: kept `svgl/travelperk-light.svg` (priority 3), dropped alternates: svgl/travelperk-dark.svg, svgl/travelperk-wordmark-dark.svg, svgl/travelperk-wordmark-light.svg
+- `trello`: kept `svgl/trello.svg` (priority 3), dropped alternates: svgl/trello-wordmark-dark.svg, svgl/trello-wordmark.svg
+- `trpc`: kept `svgl/trpc.svg` (priority 3), dropped alternates: svgl/trpc_wordmark_dark.svg, svgl/trpc_wordmark_light.svg
+- `turbopack`: kept `svgl/turbopack-icon-light.svg` (priority 3), dropped alternates: svgl/turbopack-icon-dark.svg, svgl/turbopack-wordmark-dark.svg, svgl/turbopack-wordmark-light.svg
+- `turborepo`: kept `svgl/turborepo-icon-light.svg` (priority 3), dropped alternates: svgl/turborepo-icon-dark.svg, svgl/turborepo-wordmark-dark.svg, svgl/turborepo-wordmark-light.svg
+- `turso`: kept `svgl/turso-light.svg` (priority 3), dropped alternates: svgl/turso-dark.svg, svgl/turso-wordmark-dark.svg, svgl/turso-wordmark-light.svg
+- `twingate`: kept `dashboard-icons/twingate.svg` (priority 1), dropped alternates: dashboard-icons/twingate.png
+- `typegpu`: kept `svgl/typegpu-light.svg` (priority 3), dropped alternates: svgl/typegpu-dark.svg, svgl/typegpu-wordmark-dark.svg, svgl/typegpu-wordmark-light.svg
+- `uber`: kept `svgl/uber_light.svg` (priority 3), dropped alternates: svgl/uber_dark.svg
+- `udemy`: kept `svgl/udemy.svg` (priority 3), dropped alternates: svgl/udemy_dark.svg
+- `unity`: kept `dashboard-icons/unity.svg` (priority 1), dropped alternates: dashboard-icons/unity.png, svgl/unity.svg, svgl/unity_dark.svg
+- `unreal-engine`: kept `svgl/unreal_engine.svg` (priority 3), dropped alternates: svgl/unreal_engine_dark.svg
+- `upleveled`: kept `svgl/upleveled.svg` (priority 3), dropped alternates: svgl/upleveled-wordmark.svg
+- `uxanarangel`: kept `svgl/uxanarangel-light.svg` (priority 3), dropped alternates: svgl/uxanarangel-dark.svg
+- `uxcorprangel`: kept `svgl/uxcorprangel-light.svg` (priority 3), dropped alternates: svgl/uxcorprangel-dark.svg
+- `valibot`: kept `svgl/valibot.svg` (priority 3), dropped alternates: svgl/valibot-wordmark-dark.svg, svgl/valibot-wordmark-light.svg
+- `vercel`: kept `svgl/vercel.svg` (priority 3), dropped alternates: svgl/vercel_dark.svg, svgl/vercel_wordmark.svg, svgl/vercel_wordmark_dark.svg
+- `virtualbox`: kept `dashboard-icons/virtualbox.svg` (priority 1), dropped alternates: dashboard-icons/virtualbox.png
+- `visual-studio-code`: kept `dashboard-icons/visual-studio-code.svg` (priority 1), dropped alternates: dashboard-icons/visual-studio-code.png, jamfmanager-icons/Visual Studio Code.png
+- `vivaldi`: kept `dashboard-icons/vivaldi.svg` (priority 1), dropped alternates: dashboard-icons/vivaldi.png, svgl/vivaldi.svg
+- `vlc`: kept `jamfmanager-icons/VLC.png` (priority 4), dropped alternates: hcstech-icons/VLC.png
+- `vlt`: kept `svgl/vlt-light.svg` (priority 3), dropped alternates: svgl/vlt-dark.svg, svgl/vlt-wordmark-dark.svg, svgl/vlt-wordmark-light.svg
+- `voicemod`: kept `svgl/voicemod_light.svg` (priority 3), dropped alternates: svgl/voicemod_dark.svg
+- `volta`: kept `svgl/volta-light.svg` (priority 3), dropped alternates: svgl/volta-dark.svg
+- `wakatime`: kept `svgl/wakatime-light.svg` (priority 3), dropped alternates: svgl/wakatime-dark.svg
+- `webex`: kept `dashboard-icons/webex.svg` (priority 1), dropped alternates: dashboard-icons/webex.png, jamfmanager-icons/Webex.png, hcstech-icons/Webex.png
+- `webflow`: kept `svgl/webflow.svg` (priority 3), dropped alternates: svgl/webflow-wordmark-dark.svg, svgl/webflow-wordmark-light.svg
+- `webgl`: kept `svgl/webgl.svg` (priority 3), dropped alternates: svgl/webgl_dark.svg
+- `wechat`: kept `dashboard-icons/wechat.svg` (priority 1), dropped alternates: dashboard-icons/wechat.png
+- `whatsapp`: kept `dashboard-icons/whatsapp.svg` (priority 1), dropped alternates: dashboard-icons/whatsapp.png, svgl/whatsapp-icon.svg, svgl/whatsapp-wordmark.svg
+- `whop`: kept `svgl/whop.svg` (priority 3), dropped alternates: svgl/whop-light.svg
+- `windsurf`: kept `svgl/windsurf-light.svg` (priority 3), dropped alternates: svgl/windsurf-dark.svg, svgl/windsurf-wordmark-dark.svg, svgl/windsurf-wordmark-light.svg
+- `workos`: kept `svgl/workos.svg` (priority 3), dropped alternates: svgl/workos-light.svg
+- `x`: kept `svgl/x.svg` (priority 3), dropped alternates: svgl/x_dark.svg
+- `xai`: kept `svgl/xai_light.svg` (priority 3), dropped alternates: svgl/xai_dark.svg
+- `xata`: kept `svgl/xata.svg` (priority 3), dropped alternates: svgl/xata_wordmark_black.svg, svgl/xata_wordmark_white.svg
+- `xstate`: kept `svgl/xstate.svg` (priority 3), dropped alternates: svgl/xstate_dark.svg
+- `youtube`: kept `svgl/youtube.svg` (priority 3), dropped alternates: svgl/youtube-wordmark-dark.svg, svgl/youtube-wordmark-light.svg
+- `youtube-music`: kept `svgl/youtube_music.svg` (priority 3), dropped alternates: svgl/youtube_music_wordmark_dark.svg, svgl/youtube_music_wordmark_light.svg
+- `zeabur`: kept `svgl/zeabur-light.svg` (priority 3), dropped alternates: svgl/zeabur-dark.svg, svgl/zeabur_wordmark_dark.svg, svgl/zeabur_wordmark_light.svg
+- `zed`: kept `svgl/zed-logo.svg` (priority 3), dropped alternates: svgl/zed-logo_dark.svg
+- `zen-browser`: kept `svgl/zen-browser-light.svg` (priority 3), dropped alternates: svgl/zen-browser-dark.svg, svgl/zen-browser-wordmark-dark.svg, svgl/zen-browser-wordmark-light.svg
+- `zerotier`: kept `dashboard-icons/zerotier.svg` (priority 1), dropped alternates: dashboard-icons/zerotier.png
+- `zoom`: kept `dashboard-icons/zoom.svg` (priority 1), dropped alternates: dashboard-icons/zoom.png, svgl/zoom.svg, jamfmanager-icons/Zoom.png
+- `zotero`: kept `dashboard-icons/zotero.png` (priority 1), dropped alternates: jamfmanager-icons/Zotero.png
+- `zulip`: kept `dashboard-icons/zulip.svg` (priority 1), dropped alternates: dashboard-icons/zulip.png, svgl/zulip.svg, svgl/zulip-wordmark.svg
