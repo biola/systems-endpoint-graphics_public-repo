@@ -44,3 +44,11 @@
 !*.EPS
 !*.pdf
 !*.PDF
+
+# 7. Markdown documentation/metadata
+!*.md
+!*.MD
+
+# 8. JSON metadata (manifest.json)
+!*.json
+!*.JSON
