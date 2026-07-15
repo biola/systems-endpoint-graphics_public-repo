@@ -2,46 +2,55 @@
   "generic_monochrome": {
     "discord": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/discord.png",
       "original_filename": "discord.svg",
       "source": "simple-icons"
     },
     "docker": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/docker.png",
       "original_filename": "docker.svg",
       "source": "simple-icons"
     },
     "dropbox": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/dropbox.png",
       "original_filename": "dropbox.svg",
       "source": "simple-icons"
     },
     "figma": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/figma.png",
       "original_filename": "figma.svg",
       "source": "simple-icons"
     },
     "github": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/github.png",
       "original_filename": "github.svg",
       "source": "simple-icons"
     },
     "notion": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/notion.png",
       "original_filename": "notion.svg",
       "source": "simple-icons"
     },
     "spotify": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/spotify.png",
       "original_filename": "spotify.svg",
       "source": "simple-icons"
     },
     "vercel": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/vercel.png",
       "original_filename": "vercel.svg",
       "source": "simple-icons"
     },
     "zotero": {
       "license": "CC0-1.0",
+      "on_light_variant": "generic/monochrome/on-light/zotero.png",
       "original_filename": "zotero.svg",
       "source": "simple-icons"
     }
