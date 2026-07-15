@@ -1,0 +1,147 @@
+{
+  "generic_monochrome": {
+    "discord": {
+      "license": "CC0-1.0",
+      "original_filename": "discord.svg",
+      "source": "simple-icons"
+    },
+    "docker": {
+      "license": "CC0-1.0",
+      "original_filename": "docker.svg",
+      "source": "simple-icons"
+    },
+    "dropbox": {
+      "license": "CC0-1.0",
+      "original_filename": "dropbox.svg",
+      "source": "simple-icons"
+    },
+    "figma": {
+      "license": "CC0-1.0",
+      "original_filename": "figma.svg",
+      "source": "simple-icons"
+    },
+    "github": {
+      "license": "CC0-1.0",
+      "original_filename": "github.svg",
+      "source": "simple-icons"
+    },
+    "notion": {
+      "license": "CC0-1.0",
+      "original_filename": "notion.svg",
+      "source": "simple-icons"
+    },
+    "spotify": {
+      "license": "CC0-1.0",
+      "original_filename": "spotify.svg",
+      "source": "simple-icons"
+    },
+    "vercel": {
+      "license": "CC0-1.0",
+      "original_filename": "vercel.svg",
+      "source": "simple-icons"
+    },
+    "zotero": {
+      "license": "CC0-1.0",
+      "original_filename": "zotero.svg",
+      "source": "simple-icons"
+    }
+  },
+  "software": {
+    "adobe-premiere-pro": {
+      "license": "none (fair use / educational)",
+      "original_filename": "Adobe_Premiere_Pro.png",
+      "original_format": "png",
+      "source": "hcstech-icons"
+    },
+    "cyberduck": {
+      "license": "none (fair use / educational)",
+      "original_filename": "Cyberduck.png",
+      "original_format": "png",
+      "source": "jamfmanager-icons"
+    },
+    "discord": {
+      "license": "MIT",
+      "original_filename": "discord.svg",
+      "original_format": "svg",
+      "source": "svgl"
+    },
+    "docker": {
+      "license": "Apache-2.0",
+      "original_filename": "docker.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "dropbox": {
+      "license": "Apache-2.0",
+      "original_filename": "dropbox.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "figma": {
+      "license": "Apache-2.0",
+      "original_filename": "figma.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "github": {
+      "license": "Apache-2.0",
+      "original_filename": "github.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "google-chrome": {
+      "license": "Apache-2.0",
+      "original_filename": "google-chrome.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "microsoft-edge": {
+      "license": "none (fair use / educational)",
+      "original_filename": "Microsoft Edge.png",
+      "original_format": "png",
+      "source": "jamfmanager-icons"
+    },
+    "microsoft-excel": {
+      "license": "MIT",
+      "original_filename": "microsoft-excel.svg",
+      "original_format": "svg",
+      "source": "svgl"
+    },
+    "notion": {
+      "license": "Apache-2.0",
+      "original_filename": "notion.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "slack": {
+      "license": "Apache-2.0",
+      "original_filename": "slack.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "spotify": {
+      "license": "Apache-2.0",
+      "original_filename": "spotify.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "vercel": {
+      "license": "MIT",
+      "original_filename": "vercel.svg",
+      "original_format": "svg",
+      "source": "svgl"
+    },
+    "visual-studio-code": {
+      "license": "Apache-2.0",
+      "original_filename": "visual-studio-code.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "zotero": {
+      "license": "Apache-2.0",
+      "original_filename": "zotero.png",
+      "original_format": "png",
+      "source": "dashboard-icons"
+    }
+  }
+}
