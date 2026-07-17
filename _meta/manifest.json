@@ -20697,9 +20697,6 @@
   },
   "software": {
     "1password": {
-      "kbareis_variants": [
-        "software/variants/1password/1Password.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "1Password.png",
       "original_format": "png",
@@ -20712,9 +20709,6 @@
       "source": "svgl"
     },
     "accessibility": {
-      "kbareis_variants": [
-        "software/variants/accessibility/Accessibility.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Accessibility.png",
       "original_format": "png",
@@ -20722,8 +20716,7 @@
     },
     "accessibility-app": {
       "kbareis_variants": [
-        "software/variants/accessibility-app/Accessibility-App-Tahoe-1.png",
-        "software/variants/accessibility-app/Accessibility-App-Tahoe-2.png"
+        "software/variants/Accessibility-App-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Accessibility-App-Tahoe-1.png",
@@ -20731,9 +20724,6 @@
       "source": "kbareis-icons"
     },
     "accessibility-inspector": {
-      "kbareis_variants": [
-        "software/variants/accessibility-inspector/Accessibility-Inspector-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Accessibility-Inspector-Tahoe.png",
       "original_format": "png",
@@ -20741,8 +20731,7 @@
     },
     "accessibility-reader": {
       "kbareis_variants": [
-        "software/variants/accessibility-reader/Accessibility-Reader-Tahoe-1.png",
-        "software/variants/accessibility-reader/Accessibility-Reader-Tahoe-2.png"
+        "software/variants/Accessibility-Reader-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Accessibility-Reader-Tahoe-1.png",
@@ -20763,8 +20752,7 @@
     },
     "activity-monitor": {
       "kbareis_variants": [
-        "software/variants/activity-monitor/Activity-Monitor-Tahoe.png",
-        "software/variants/activity-monitor/Activity-Monitor.png"
+        "software/variants/Activity-Monitor.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Activity-Monitor-Tahoe.png",
@@ -20833,11 +20821,10 @@
     },
     "adobe-creative-cloud": {
       "kbareis_variants": [
-        "software/variants/adobe-creative-cloud/Adobe-Creative-Cloud-Tahoe-1.png",
-        "software/variants/adobe-creative-cloud/Adobe-Creative-Cloud-Tahoe-2.png",
-        "software/variants/adobe-creative-cloud/Adobe-Creative-Cloud-Tahoe-3.png",
-        "software/variants/adobe-creative-cloud/Adobe-Creative-Cloud-Tahoe-4.png",
-        "software/variants/adobe-creative-cloud/Adobe-Creative-Cloud.png"
+        "software/variants/Adobe-Creative-Cloud-Tahoe-2.png",
+        "software/variants/Adobe-Creative-Cloud-Tahoe-3.png",
+        "software/variants/Adobe-Creative-Cloud-Tahoe-4.png",
+        "software/variants/Adobe-Creative-Cloud.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Adobe-Creative-Cloud-Tahoe-1.png",
@@ -20851,9 +20838,6 @@
       "source": "jamfmanager-icons"
     },
     "adobe-creative-cloud-diagnostics": {
-      "kbareis_variants": [
-        "software/variants/adobe-creative-cloud-diagnostics/Adobe-Creative-Cloud-Diagnostics-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Adobe-Creative-Cloud-Diagnostics-Tahoe.png",
       "original_format": "png",
@@ -20920,9 +20904,6 @@
       "source": "svgl"
     },
     "adobe-update": {
-      "kbareis_variants": [
-        "software/variants/adobe-update/Adobe-Update-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Adobe-Update-Tahoe.png",
       "original_format": "png",
@@ -20996,8 +20977,7 @@
     },
     "airdrop": {
       "kbareis_variants": [
-        "software/variants/airdrop/AirDrop-Tahoe.png",
-        "software/variants/airdrop/AirDrop.png"
+        "software/variants/AirDrop.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "AirDrop-Tahoe.png",
@@ -21006,8 +20986,7 @@
     },
     "airport-utility": {
       "kbareis_variants": [
-        "software/variants/airport-utility/AirPort-Utility-Tahoe.png",
-        "software/variants/airport-utility/AirPort-Utility.png"
+        "software/variants/AirPort-Utility.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "AirPort-Utility-Tahoe.png",
@@ -21034,8 +21013,7 @@
     },
     "alert-caution": {
       "kbareis_variants": [
-        "software/variants/alert-caution/Alert-Caution-Tahoe.png",
-        "software/variants/alert-caution/Alert-Caution.png"
+        "software/variants/Alert-Caution.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Alert-Caution-Tahoe.png",
@@ -21043,18 +21021,12 @@
       "source": "kbareis-icons"
     },
     "alert-note": {
-      "kbareis_variants": [
-        "software/variants/alert-note/Alert-Note.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Alert-Note.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "alert-stop": {
-      "kbareis_variants": [
-        "software/variants/alert-stop/Alert-Stop.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Alert-Stop.png",
       "original_format": "png",
@@ -21182,8 +21154,7 @@
     },
     "app-install": {
       "kbareis_variants": [
-        "software/variants/app-install/App-Install-1.png",
-        "software/variants/app-install/App-Install-2.png"
+        "software/variants/App-Install-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "App-Install-1.png",
@@ -21192,8 +21163,7 @@
     },
     "app-store": {
       "kbareis_variants": [
-        "software/variants/app-store/App-Store-Tahoe.png",
-        "software/variants/app-store/App-Store.png"
+        "software/variants/App-Store.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "App-Store-Tahoe.png",
@@ -21213,9 +21183,6 @@
       "source": "svgl"
     },
     "apple-account": {
-      "kbareis_variants": [
-        "software/variants/apple-account/Apple-Account.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Apple-Account.png",
       "original_format": "png",
@@ -21223,8 +21190,7 @@
     },
     "apple-applecare": {
       "kbareis_variants": [
-        "software/variants/apple-applecare/Apple-AppleCare-Tahoe.png",
-        "software/variants/apple-applecare/Apple-AppleCare.png"
+        "software/variants/Apple-AppleCare.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Apple-AppleCare-Tahoe.png",
@@ -21233,8 +21199,7 @@
     },
     "apple-configurator": {
       "kbareis_variants": [
-        "software/variants/apple-configurator/Apple-Configurator-Tahoe.png",
-        "software/variants/apple-configurator/Apple-Configurator.png"
+        "software/variants/Apple-Configurator.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Apple-Configurator-Tahoe.png",
@@ -21242,9 +21207,6 @@
       "source": "kbareis-icons"
     },
     "apple-diagnostics": {
-      "kbareis_variants": [
-        "software/variants/apple-diagnostics/Apple-Diagnostics-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Apple-Diagnostics-Tahoe.png",
       "original_format": "png",
@@ -21258,8 +21220,7 @@
     },
     "apple-tv": {
       "kbareis_variants": [
-        "software/variants/apple-tv/Apple-TV-Tahoe.png",
-        "software/variants/apple-tv/Apple-TV.png"
+        "software/variants/Apple-TV.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Apple-TV-Tahoe.png",
@@ -21273,18 +21234,12 @@
       "source": "hcstech-icons"
     },
     "applescript-utility": {
-      "kbareis_variants": [
-        "software/variants/applescript-utility/AppleScript-Utility-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "AppleScript-Utility-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "apps": {
-      "kbareis_variants": [
-        "software/variants/apps/Apps-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Apps-Tahoe.png",
       "original_format": "png",
@@ -21322,8 +21277,7 @@
     },
     "archive-utility": {
       "kbareis_variants": [
-        "software/variants/archive-utility/Archive-Utility-Tahoe.png",
-        "software/variants/archive-utility/Archive-Utility.png"
+        "software/variants/Archive-Utility.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Archive-Utility-Tahoe.png",
@@ -21374,8 +21328,7 @@
     },
     "audacity": {
       "kbareis_variants": [
-        "software/variants/audacity/Audacity-Tahoe.png",
-        "software/variants/audacity/Audacity.png"
+        "software/variants/Audacity.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Audacity-Tahoe.png",
@@ -21383,9 +21336,6 @@
       "source": "kbareis-icons"
     },
     "audio-midi": {
-      "kbareis_variants": [
-        "software/variants/audio-midi/Audio-MIDI-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Audio-MIDI-Tahoe.png",
       "original_format": "png",
@@ -21417,10 +21367,9 @@
     },
     "automator": {
       "kbareis_variants": [
-        "software/variants/automator/Automator-Tahoe-1.png",
-        "software/variants/automator/Automator-Tahoe-2.png",
-        "software/variants/automator/Automator-Tahoe-3.png",
-        "software/variants/automator/Automator.png"
+        "software/variants/Automator-Tahoe-2.png",
+        "software/variants/Automator-Tahoe-3.png",
+        "software/variants/Automator.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Automator-Tahoe-1.png",
@@ -21482,9 +21431,6 @@
       "source": "svgl"
     },
     "battery": {
-      "kbareis_variants": [
-        "software/variants/battery/Battery-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Battery-Tahoe.png",
       "original_format": "png",
@@ -21557,9 +21503,6 @@
       "source": "svgl"
     },
     "blackmagic-disk-speed-test": {
-      "kbareis_variants": [
-        "software/variants/blackmagic-disk-speed-test/Blackmagic-Disk-Speed-Test.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Blackmagic-Disk-Speed-Test.png",
       "original_format": "png",
@@ -21582,8 +21525,7 @@
     },
     "blender": {
       "kbareis_variants": [
-        "software/variants/blender/Blender-Tahoe.png",
-        "software/variants/blender/Blender.png"
+        "software/variants/Blender.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Blender-Tahoe.png",
@@ -21604,9 +21546,8 @@
     },
     "bluetooth": {
       "kbareis_variants": [
-        "software/variants/bluetooth/Bluetooth-Tahoe-1.png",
-        "software/variants/bluetooth/Bluetooth-Tahoe-2.png",
-        "software/variants/bluetooth/Bluetooth.png"
+        "software/variants/Bluetooth-Tahoe-2.png",
+        "software/variants/Bluetooth.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Bluetooth-Tahoe-1.png",
@@ -21639,8 +21580,7 @@
     },
     "books": {
       "kbareis_variants": [
-        "software/variants/books/Books-Tahoe.png",
-        "software/variants/books/Books.png"
+        "software/variants/Books.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Books-Tahoe.png",
@@ -21649,8 +21589,7 @@
     },
     "boot-camp-assistant": {
       "kbareis_variants": [
-        "software/variants/boot-camp-assistant/Boot-Camp-Assistant-Tahoe.png",
-        "software/variants/boot-camp-assistant/Boot-Camp-Assistant.png"
+        "software/variants/Boot-Camp-Assistant.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Boot-Camp-Assistant-Tahoe.png",
@@ -21664,9 +21603,6 @@
       "source": "svgl"
     },
     "box": {
-      "kbareis_variants": [
-        "software/variants/box/Box-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Box-Tahoe.png",
       "original_format": "png",
@@ -21745,9 +21681,6 @@
       "source": "svgl"
     },
     "calculator": {
-      "kbareis_variants": [
-        "software/variants/calculator/Calculator-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Calculator-Tahoe.png",
       "original_format": "png",
@@ -21755,8 +21688,7 @@
     },
     "calendar": {
       "kbareis_variants": [
-        "software/variants/calendar/Calendar-Tahoe-1.png",
-        "software/variants/calendar/Calendar-Tahoe-2.png"
+        "software/variants/Calendar-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Calendar-Tahoe-1.png",
@@ -21770,9 +21702,6 @@
       "source": "svgl"
     },
     "calibration-assistant": {
-      "kbareis_variants": [
-        "software/variants/calibration-assistant/Calibration-Assistant-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Calibration-Assistant-Tahoe.png",
       "original_format": "png",
@@ -21785,9 +21714,6 @@
       "source": "dashboard-icons"
     },
     "camtasia": {
-      "kbareis_variants": [
-        "software/variants/camtasia/Camtasia.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Camtasia.png",
       "original_format": "png",
@@ -21848,9 +21774,6 @@
       "source": "svgl"
     },
     "certificate-assistant": {
-      "kbareis_variants": [
-        "software/variants/certificate-assistant/Certificate-Assistant-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Certificate-Assistant-Tahoe.png",
       "original_format": "png",
@@ -21875,18 +21798,12 @@
       "source": "svgl"
     },
     "chatgpt": {
-      "kbareis_variants": [
-        "software/variants/chatgpt/ChatGPT-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "ChatGPT-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "chess": {
-      "kbareis_variants": [
-        "software/variants/chess/Chess-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Chess-Tahoe.png",
       "original_format": "png",
@@ -21905,9 +21822,6 @@
       "source": "svgl"
     },
     "cinebench": {
-      "kbareis_variants": [
-        "software/variants/cinebench/Cinebench.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Cinebench.png",
       "original_format": "png",
@@ -21951,8 +21865,7 @@
     },
     "classroom": {
       "kbareis_variants": [
-        "software/variants/classroom/Classroom-Tahoe.png",
-        "software/variants/classroom/Classroom.png"
+        "software/variants/Classroom.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Classroom-Tahoe.png",
@@ -21979,8 +21892,7 @@
     },
     "clock": {
       "kbareis_variants": [
-        "software/variants/clock/Clock-Tahoe-1.png",
-        "software/variants/clock/Clock-Tahoe-2.png"
+        "software/variants/Clock-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Clock-Tahoe-1.png",
@@ -22036,9 +21948,6 @@
       "source": "svgl"
     },
     "cog": {
-      "kbareis_variants": [
-        "software/variants/cog/Cog.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Cog.png",
       "original_format": "png",
@@ -22069,18 +21978,12 @@
       "source": "svgl"
     },
     "collaboration": {
-      "kbareis_variants": [
-        "software/variants/collaboration/Collaboration.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Collaboration.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "colorsync-utility": {
-      "kbareis_variants": [
-        "software/variants/colorsync-utility/ColorSync-Utility-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "ColorSync-Utility-Tahoe.png",
       "original_format": "png",
@@ -22093,9 +21996,6 @@
       "source": "hcstech-icons"
     },
     "compressor": {
-      "kbareis_variants": [
-        "software/variants/compressor/Compressor-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Compressor-Tahoe.png",
       "original_format": "png",
@@ -22115,8 +22015,7 @@
     },
     "console": {
       "kbareis_variants": [
-        "software/variants/console/Console-Tahoe.png",
-        "software/variants/console/Console.png"
+        "software/variants/Console.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Console-Tahoe.png",
@@ -22124,9 +22023,6 @@
       "source": "kbareis-icons"
     },
     "contacts": {
-      "kbareis_variants": [
-        "software/variants/contacts/Contacts-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Contacts-Tahoe.png",
       "original_format": "png",
@@ -22134,8 +22030,7 @@
     },
     "control-center": {
       "kbareis_variants": [
-        "software/variants/control-center/Control-Center-Tahoe.png",
-        "software/variants/control-center/Control-Center.png"
+        "software/variants/Control-Center.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Control-Center-Tahoe.png",
@@ -22347,9 +22242,6 @@
       "source": "svgl"
     },
     "desk-view": {
-      "kbareis_variants": [
-        "software/variants/desk-view/Desk-View-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Desk-View-Tahoe.png",
       "original_format": "png",
@@ -22357,8 +22249,7 @@
     },
     "developer": {
       "kbareis_variants": [
-        "software/variants/developer/Developer-Tahoe.png",
-        "software/variants/developer/Developer.png"
+        "software/variants/Developer.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Developer-Tahoe.png",
@@ -22372,36 +22263,24 @@
       "source": "svgl"
     },
     "dialog": {
-      "kbareis_variants": [
-        "software/variants/dialog/Dialog-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Dialog-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "dictation": {
-      "kbareis_variants": [
-        "software/variants/dictation/Dictation-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Dictation-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "dictionary": {
-      "kbareis_variants": [
-        "software/variants/dictionary/Dictionary-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Dictionary-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "digital-color-meter": {
-      "kbareis_variants": [
-        "software/variants/digital-color-meter/Digital-Color-Meter-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Digital-Color-Meter-Tahoe.png",
       "original_format": "png",
@@ -22427,8 +22306,7 @@
     },
     "directory-utility": {
       "kbareis_variants": [
-        "software/variants/directory-utility/Directory-Utility-Tahoe.png",
-        "software/variants/directory-utility/Directory-Utility.png"
+        "software/variants/Directory-Utility.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Directory-Utility-Tahoe.png",
@@ -22461,8 +22339,7 @@
     },
     "disk-utility": {
       "kbareis_variants": [
-        "software/variants/disk-utility/Disk-Utility-Tahoe.png",
-        "software/variants/disk-utility/Disk-Utility.png"
+        "software/variants/Disk-Utility.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Disk-Utility-Tahoe.png",
@@ -22476,9 +22353,6 @@
       "source": "svgl"
     },
     "display-calibrator": {
-      "kbareis_variants": [
-        "software/variants/display-calibrator/Display-Calibrator-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Display-Calibrator-Tahoe.png",
       "original_format": "png",
@@ -22510,8 +22384,7 @@
     },
     "dock": {
       "kbareis_variants": [
-        "software/variants/dock/Dock-Tahoe.png",
-        "software/variants/dock/Dock.png"
+        "software/variants/Dock.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Dock-Tahoe.png",
@@ -22729,9 +22602,6 @@
       "source": "hcstech-icons"
     },
     "enhanced-logging": {
-      "kbareis_variants": [
-        "software/variants/enhanced-logging/Enhanced-Logging-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Enhanced-Logging-Tahoe.png",
       "original_format": "png",
@@ -22751,8 +22621,7 @@
     },
     "erase-assistant": {
       "kbareis_variants": [
-        "software/variants/erase-assistant/Erase-Assistant-Tahoe.png",
-        "software/variants/erase-assistant/Erase-Assistant.png"
+        "software/variants/Erase-Assistant.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Erase-Assistant-Tahoe.png",
@@ -22790,9 +22659,6 @@
       "source": "dashboard-icons"
     },
     "executable-binary": {
-      "kbareis_variants": [
-        "software/variants/executable-binary/Executable-Binary.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Executable-Binary.png",
       "original_format": "png",
@@ -22805,9 +22671,6 @@
       "source": "svgl"
     },
     "expansion-slot-utility": {
-      "kbareis_variants": [
-        "software/variants/expansion-slot-utility/Expansion-Slot-Utility-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Expansion-Slot-Utility-Tahoe.png",
       "original_format": "png",
@@ -22845,8 +22708,7 @@
     },
     "facetime": {
       "kbareis_variants": [
-        "software/variants/facetime/FaceTime-Tahoe.png",
-        "software/variants/facetime/FaceTime.png"
+        "software/variants/FaceTime.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "FaceTime-Tahoe.png",
@@ -22873,9 +22735,8 @@
     },
     "feedback-assistant": {
       "kbareis_variants": [
-        "software/variants/feedback-assistant/Feedback-Assistant-Tahoe-1.png",
-        "software/variants/feedback-assistant/Feedback-Assistant-Tahoe-2.png",
-        "software/variants/feedback-assistant/Feedback-Assistant.png"
+        "software/variants/Feedback-Assistant-Tahoe-2.png",
+        "software/variants/Feedback-Assistant.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Feedback-Assistant-Tahoe-1.png",
@@ -22895,9 +22756,6 @@
       "source": "hcstech-icons"
     },
     "filevault": {
-      "kbareis_variants": [
-        "software/variants/filevault/FileVault.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "FileVault.png",
       "original_format": "png",
@@ -22916,9 +22774,6 @@
       "source": "svgl"
     },
     "final-cut-pro": {
-      "kbareis_variants": [
-        "software/variants/final-cut-pro/Final-Cut-Pro-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Final-Cut-Pro-Tahoe.png",
       "original_format": "png",
@@ -22926,8 +22781,7 @@
     },
     "find-my": {
       "kbareis_variants": [
-        "software/variants/find-my/Find-My-Tahoe.png",
-        "software/variants/find-my/Find-My.png"
+        "software/variants/Find-My.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Find-My-Tahoe.png",
@@ -22936,8 +22790,7 @@
     },
     "finder": {
       "kbareis_variants": [
-        "software/variants/finder/Finder-Tahoe.png",
-        "software/variants/finder/Finder.png"
+        "software/variants/Finder.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Finder-Tahoe.png",
@@ -22964,8 +22817,7 @@
     },
     "firefox": {
       "kbareis_variants": [
-        "software/variants/firefox/Firefox-Tahoe.png",
-        "software/variants/firefox/Firefox.png"
+        "software/variants/Firefox.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Firefox-Tahoe.png",
@@ -23015,180 +22867,120 @@
       "source": "svgl"
     },
     "focus": {
-      "kbareis_variants": [
-        "software/variants/focus/Focus.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Focus.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-actions": {
-      "kbareis_variants": [
-        "software/variants/folder-actions/Folder-Actions-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Actions-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-applications": {
-      "kbareis_variants": [
-        "software/variants/folder-applications/Folder-Applications.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Applications.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-building": {
-      "kbareis_variants": [
-        "software/variants/folder-building/Folder-Building.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Building.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-burn": {
-      "kbareis_variants": [
-        "software/variants/folder-burn/Folder-Burn.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Burn.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-desktop": {
-      "kbareis_variants": [
-        "software/variants/folder-desktop/Folder-Desktop.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Desktop.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-developer": {
-      "kbareis_variants": [
-        "software/variants/folder-developer/Folder-Developer.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Developer.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-documentation": {
-      "kbareis_variants": [
-        "software/variants/folder-documentation/Folder-Documentation.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Documentation.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-documents": {
-      "kbareis_variants": [
-        "software/variants/folder-documents/Folder-Documents.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Documents.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-downloads": {
-      "kbareis_variants": [
-        "software/variants/folder-downloads/Folder-Downloads.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Downloads.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-generic": {
-      "kbareis_variants": [
-        "software/variants/folder-generic/Folder-Generic.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Generic.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-icloud": {
-      "kbareis_variants": [
-        "software/variants/folder-icloud/Folder-iCloud.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-iCloud.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-library": {
-      "kbareis_variants": [
-        "software/variants/folder-library/Folder-Library.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Library.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-linux": {
-      "kbareis_variants": [
-        "software/variants/folder-linux/Folder-Linux.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Linux.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-movies": {
-      "kbareis_variants": [
-        "software/variants/folder-movies/Folder-Movies.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Movies.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-music": {
-      "kbareis_variants": [
-        "software/variants/folder-music/Folder-Music.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Music.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-parallels": {
-      "kbareis_variants": [
-        "software/variants/folder-parallels/Folder-Parallels.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Parallels.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-pictures": {
-      "kbareis_variants": [
-        "software/variants/folder-pictures/Folder-Pictures.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Pictures.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-public": {
-      "kbareis_variants": [
-        "software/variants/folder-public/Folder-Public.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Public.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-server": {
-      "kbareis_variants": [
-        "software/variants/folder-server/Folder-Server.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Server.png",
       "original_format": "png",
@@ -23196,8 +22988,7 @@
     },
     "folder-share": {
       "kbareis_variants": [
-        "software/variants/folder-share/Folder-Share-1.png",
-        "software/variants/folder-share/Folder-Share-2.png"
+        "software/variants/Folder-Share-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Share-1.png",
@@ -23205,63 +22996,42 @@
       "source": "kbareis-icons"
     },
     "folder-sites": {
-      "kbareis_variants": [
-        "software/variants/folder-sites/Folder-Sites.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Sites.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-smart": {
-      "kbareis_variants": [
-        "software/variants/folder-smart/Folder-Smart.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Smart.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-system": {
-      "kbareis_variants": [
-        "software/variants/folder-system/Folder-System.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-System.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-user": {
-      "kbareis_variants": [
-        "software/variants/folder-user/Folder-User.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-User.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-utilities": {
-      "kbareis_variants": [
-        "software/variants/folder-utilities/Folder-Utilities.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Utilities.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "folder-windows": {
-      "kbareis_variants": [
-        "software/variants/folder-windows/Folder-Windows.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Folder-Windows.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "font-book": {
-      "kbareis_variants": [
-        "software/variants/font-book/Font-Book-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Font-Book-Tahoe.png",
       "original_format": "png",
@@ -23323,8 +23093,7 @@
     },
     "freeform": {
       "kbareis_variants": [
-        "software/variants/freeform/Freeform-Tahoe.png",
-        "software/variants/freeform/Freeform.png"
+        "software/variants/Freeform.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Freeform-Tahoe.png",
@@ -23357,8 +23126,7 @@
     },
     "game-center": {
       "kbareis_variants": [
-        "software/variants/game-center/Game-Center-Tahoe.png",
-        "software/variants/game-center/Game-Center.png"
+        "software/variants/Game-Center.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Game-Center-Tahoe.png",
@@ -23367,8 +23135,7 @@
     },
     "games": {
       "kbareis_variants": [
-        "software/variants/games/Games-Tahoe-1.png",
-        "software/variants/games/Games-Tahoe-2.png"
+        "software/variants/Games-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Games-Tahoe-1.png",
@@ -23377,8 +23144,7 @@
     },
     "garageband": {
       "kbareis_variants": [
-        "software/variants/garageband/GarageBand-Tahoe.png",
-        "software/variants/garageband/Garageband.png"
+        "software/variants/Garageband.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "GarageBand-Tahoe.png",
@@ -23386,18 +23152,12 @@
       "source": "kbareis-icons"
     },
     "garageband-loops": {
-      "kbareis_variants": [
-        "software/variants/garageband-loops/GarageBand-Loops.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "GarageBand-Loops.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "garageband-loops-folder": {
-      "kbareis_variants": [
-        "software/variants/garageband-loops-folder/GarageBand-Loops-Folder.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "GarageBand-Loops-Folder.png",
       "original_format": "png",
@@ -23422,9 +23182,6 @@
       "source": "svgl"
     },
     "geekbench": {
-      "kbareis_variants": [
-        "software/variants/geekbench/Geekbench.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Geekbench.png",
       "original_format": "png",
@@ -23497,9 +23254,6 @@
       "source": "hcstech-icons"
     },
     "globe": {
-      "kbareis_variants": [
-        "software/variants/globe/Globe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Globe.png",
       "original_format": "png",
@@ -23567,8 +23321,7 @@
     },
     "google-chrome": {
       "kbareis_variants": [
-        "software/variants/google-chrome/Google-Chrome-Tahoe.png",
-        "software/variants/google-chrome/Google-Chrome.png"
+        "software/variants/Google-Chrome.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Google-Chrome-Tahoe.png",
@@ -23678,9 +23431,6 @@
       "source": "svgl"
     },
     "grapher": {
-      "kbareis_variants": [
-        "software/variants/grapher/Grapher-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Grapher-Tahoe.png",
       "original_format": "png",
@@ -23718,8 +23468,7 @@
     },
     "handbrake": {
       "kbareis_variants": [
-        "software/variants/handbrake/HandBrake-Tahoe.png",
-        "software/variants/handbrake/Handbrake.png"
+        "software/variants/Handbrake.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "HandBrake-Tahoe.png",
@@ -23757,9 +23506,6 @@
       "source": "svgl"
     },
     "help": {
-      "kbareis_variants": [
-        "software/variants/help/Help.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Help.png",
       "original_format": "png",
@@ -23791,8 +23537,7 @@
     },
     "home": {
       "kbareis_variants": [
-        "software/variants/home/Home-Tahoe.png",
-        "software/variants/home/Home.png"
+        "software/variants/Home.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Home-Tahoe.png",
@@ -23836,9 +23581,6 @@
       "source": "svgl"
     },
     "hour-glass": {
-      "kbareis_variants": [
-        "software/variants/hour-glass/Hour-Glass.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Hour-Glass.png",
       "original_format": "png",
@@ -23900,11 +23642,10 @@
     },
     "icloud": {
       "kbareis_variants": [
-        "software/variants/icloud/iCloud-Tahoe-1.png",
-        "software/variants/icloud/iCloud-Tahoe-2.png",
-        "software/variants/icloud/iCloud-Tahoe-3.png",
-        "software/variants/icloud/iCloud-Tahoe-4.png",
-        "software/variants/icloud/iCloud.png"
+        "software/variants/iCloud-Tahoe-2.png",
+        "software/variants/iCloud-Tahoe-3.png",
+        "software/variants/iCloud-Tahoe-4.png",
+        "software/variants/iCloud.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "iCloud-Tahoe-1.png",
@@ -23912,18 +23653,12 @@
       "source": "kbareis-icons"
     },
     "icloud-family": {
-      "kbareis_variants": [
-        "software/variants/icloud-family/iCloud-Family.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "iCloud-Family.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "icon-composer": {
-      "kbareis_variants": [
-        "software/variants/icon-composer/Icon-Composer-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Icon-Composer-Tahoe.png",
       "original_format": "png",
@@ -23931,8 +23666,7 @@
     },
     "icons": {
       "kbareis_variants": [
-        "software/variants/icons/Icons-Tahoe.png",
-        "software/variants/icons/Icons.png"
+        "software/variants/Icons.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Icons-Tahoe.png",
@@ -23958,18 +23692,12 @@
       "source": "svgl"
     },
     "image-capture": {
-      "kbareis_variants": [
-        "software/variants/image-capture/Image-Capture-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Image-Capture-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "image-playgrounds": {
-      "kbareis_variants": [
-        "software/variants/image-playgrounds/Image-Playgrounds-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Image-Playgrounds-Tahoe.png",
       "original_format": "png",
@@ -23982,18 +23710,12 @@
       "source": "hcstech-icons"
     },
     "imazing-profile-creator": {
-      "kbareis_variants": [
-        "software/variants/imazing-profile-creator/iMazing-Profile-Creator.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "iMazing-Profile-Creator.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "imazing-profile-editor": {
-      "kbareis_variants": [
-        "software/variants/imazing-profile-editor/iMazing-Profile-Editor-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "iMazing-Profile-Editor-Tahoe.png",
       "original_format": "png",
@@ -24001,8 +23723,7 @@
     },
     "imovie": {
       "kbareis_variants": [
-        "software/variants/imovie/iMovie-Tahoe.png",
-        "software/variants/imovie/iMovie.png"
+        "software/variants/iMovie.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "iMovie-Tahoe.png",
@@ -24034,9 +23755,6 @@
       "source": "svgl"
     },
     "info": {
-      "kbareis_variants": [
-        "software/variants/info/Info.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Info.png",
       "original_format": "png",
@@ -24062,9 +23780,8 @@
     },
     "install": {
       "kbareis_variants": [
-        "software/variants/install/Install-Tahoe-1.png",
-        "software/variants/install/Install-Tahoe-2.png",
-        "software/variants/install/Install-Tahoe-3.png"
+        "software/variants/Install-Tahoe-2.png",
+        "software/variants/Install-Tahoe-3.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Install-Tahoe-1.png",
@@ -24079,8 +23796,7 @@
     },
     "instruments": {
       "kbareis_variants": [
-        "software/variants/instruments/Instruments-Tahoe.png",
-        "software/variants/instruments/Instruments.png"
+        "software/variants/Instruments.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Instruments-Tahoe.png",
@@ -24124,9 +23840,6 @@
       "source": "hcstech-icons"
     },
     "iphone-mirroring": {
-      "kbareis_variants": [
-        "software/variants/iphone-mirroring/iPhone-Mirroring-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "iPhone-Mirroring-Tahoe.png",
       "original_format": "png",
@@ -24164,8 +23877,7 @@
     },
     "jamf": {
       "kbareis_variants": [
-        "software/variants/jamf/Jamf-Tahoe-1.png",
-        "software/variants/jamf/Jamf-Tahoe-2.png"
+        "software/variants/Jamf-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Jamf-Tahoe-1.png",
@@ -24173,9 +23885,6 @@
       "source": "kbareis-icons"
     },
     "jamf-complance-editor": {
-      "kbareis_variants": [
-        "software/variants/jamf-complance-editor/Jamf-Complance-Editor.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Jamf-Complance-Editor.png",
       "original_format": "png",
@@ -24188,18 +23897,12 @@
       "source": "jamfmanager-icons"
     },
     "jamf-remote": {
-      "kbareis_variants": [
-        "software/variants/jamf-remote/Jamf-Remote-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Jamf-Remote-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "jamf-self-service": {
-      "kbareis_variants": [
-        "software/variants/jamf-self-service/Jamf-Self-Service+-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Jamf-Self-Service+-Tahoe.png",
       "original_format": "png",
@@ -24272,9 +23975,6 @@
       "source": "dashboard-icons"
     },
     "journal": {
-      "kbareis_variants": [
-        "software/variants/journal/Journal-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Journal-Tahoe.png",
       "original_format": "png",
@@ -24336,8 +24036,7 @@
     },
     "keychain-access": {
       "kbareis_variants": [
-        "software/variants/keychain-access/Keychain-Access-Tahoe.png",
-        "software/variants/keychain-access/Keychain-Access.png"
+        "software/variants/Keychain-Access.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Keychain-Access-Tahoe.png",
@@ -24352,8 +24051,7 @@
     },
     "keynote": {
       "kbareis_variants": [
-        "software/variants/keynote/Keynote-Tahoe.png",
-        "software/variants/keynote/Keynote.png"
+        "software/variants/Keynote.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Keynote-Tahoe.png",
@@ -24445,9 +24143,6 @@
       "source": "dashboard-icons"
     },
     "launchpad": {
-      "kbareis_variants": [
-        "software/variants/launchpad/Launchpad.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Launchpad.png",
       "original_format": "png",
@@ -24551,8 +24246,7 @@
     },
     "logic-pro": {
       "kbareis_variants": [
-        "software/variants/logic-pro/Logic-Pro-Tahoe.png",
-        "software/variants/logic-pro/Logic-Pro.png"
+        "software/variants/Logic-Pro.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Logic-Pro-Tahoe.png",
@@ -24603,8 +24297,7 @@
     },
     "mac-evaluation-utility": {
       "kbareis_variants": [
-        "software/variants/mac-evaluation-utility/Mac-Evaluation-Utility-Tahoe.png",
-        "software/variants/mac-evaluation-utility/Mac-Evaluation-Utility.png"
+        "software/variants/Mac-Evaluation-Utility.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Mac-Evaluation-Utility-Tahoe.png",
@@ -24612,27 +24305,18 @@
       "source": "kbareis-icons"
     },
     "mac-provisioner": {
-      "kbareis_variants": [
-        "software/variants/mac-provisioner/Mac-Provisioner.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Mac-Provisioner.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "macos-badge": {
-      "kbareis_variants": [
-        "software/variants/macos-badge/macOS-Badge.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "macOS-Badge.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "macos-sonoma-installer": {
-      "kbareis_variants": [
-        "software/variants/macos-sonoma-installer/macOS-Sonoma-Installer.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "macOS-Sonoma-Installer.png",
       "original_format": "png",
@@ -24645,9 +24329,6 @@
       "source": "svgl"
     },
     "magnifier": {
-      "kbareis_variants": [
-        "software/variants/magnifier/Magnifier-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Magnifier-Tahoe.png",
       "original_format": "png",
@@ -24655,8 +24336,7 @@
     },
     "mail": {
       "kbareis_variants": [
-        "software/variants/mail/Mail-Tahoe.png",
-        "software/variants/mail/Mail.png"
+        "software/variants/Mail.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Mail-Tahoe.png",
@@ -24664,9 +24344,6 @@
       "source": "kbareis-icons"
     },
     "mainstage": {
-      "kbareis_variants": [
-        "software/variants/mainstage/MainStage-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "MainStage-Tahoe.png",
       "original_format": "png",
@@ -24703,9 +24380,6 @@
       "source": "svgl"
     },
     "maps": {
-      "kbareis_variants": [
-        "software/variants/maps/Maps-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Maps-Tahoe.png",
       "original_format": "png",
@@ -24821,8 +24495,7 @@
     },
     "messages": {
       "kbareis_variants": [
-        "software/variants/messages/Messages-Tahoe.png",
-        "software/variants/messages/Messages.png"
+        "software/variants/Messages.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Messages-Tahoe.png",
@@ -24855,8 +24528,7 @@
     },
     "microsoft-365": {
       "kbareis_variants": [
-        "software/variants/microsoft-365/Microsoft-365-Tahoe.png",
-        "software/variants/microsoft-365/Microsoft-365.png"
+        "software/variants/Microsoft-365.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-365-Tahoe.png",
@@ -24870,9 +24542,6 @@
       "source": "svgl"
     },
     "microsoft-autoupdate": {
-      "kbareis_variants": [
-        "software/variants/microsoft-autoupdate/Microsoft-AutoUpdate-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-AutoUpdate-Tahoe.png",
       "original_format": "png",
@@ -24886,8 +24555,7 @@
     },
     "microsoft-company-portal": {
       "kbareis_variants": [
-        "software/variants/microsoft-company-portal/Microsoft-Company-Portal-Tahoe.png",
-        "software/variants/microsoft-company-portal/Microsoft-Company-Portal.png"
+        "software/variants/Microsoft-Company-Portal.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Company-Portal-Tahoe.png",
@@ -24895,9 +24563,6 @@
       "source": "kbareis-icons"
     },
     "microsoft-copilot": {
-      "kbareis_variants": [
-        "software/variants/microsoft-copilot/Microsoft-Copilot-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Copilot-Tahoe.png",
       "original_format": "png",
@@ -24905,8 +24570,7 @@
     },
     "microsoft-defender": {
       "kbareis_variants": [
-        "software/variants/microsoft-defender/Microsoft-Defender-Tahoe.png",
-        "software/variants/microsoft-defender/Microsoft-Defender.png"
+        "software/variants/Microsoft-Defender.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Defender-Tahoe.png",
@@ -24920,9 +24584,6 @@
       "source": "svgl"
     },
     "microsoft-dlp": {
-      "kbareis_variants": [
-        "software/variants/microsoft-dlp/Microsoft-DLP-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-DLP-Tahoe.png",
       "original_format": "png",
@@ -24930,9 +24591,8 @@
     },
     "microsoft-edge": {
       "kbareis_variants": [
-        "software/variants/microsoft-edge/Microsoft-Edge-Tahoe-1.png",
-        "software/variants/microsoft-edge/Microsoft-Edge-Tahoe-2.png",
-        "software/variants/microsoft-edge/Microsoft-Edge.png"
+        "software/variants/Microsoft-Edge-Tahoe-2.png",
+        "software/variants/Microsoft-Edge.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Edge-Tahoe-1.png",
@@ -24946,9 +24606,6 @@
       "source": "svgl"
     },
     "microsoft-error-reporting": {
-      "kbareis_variants": [
-        "software/variants/microsoft-error-reporting/Microsoft-Error-Reporting-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Error-Reporting-Tahoe.png",
       "original_format": "png",
@@ -24956,8 +24613,7 @@
     },
     "microsoft-excel": {
       "kbareis_variants": [
-        "software/variants/microsoft-excel/Microsoft-Excel-Tahoe.png",
-        "software/variants/microsoft-excel/Microsoft-Excel.png"
+        "software/variants/Microsoft-Excel.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Excel-Tahoe.png",
@@ -24965,9 +24621,6 @@
       "source": "kbareis-icons"
     },
     "microsoft-office": {
-      "kbareis_variants": [
-        "software/variants/microsoft-office/Microsoft-Office.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Office.png",
       "original_format": "png",
@@ -24987,9 +24640,8 @@
     },
     "microsoft-onedrive": {
       "kbareis_variants": [
-        "software/variants/microsoft-onedrive/Microsoft-OneDrive-Tahoe-1.png",
-        "software/variants/microsoft-onedrive/Microsoft-OneDrive-Tahoe-2.png",
-        "software/variants/microsoft-onedrive/Microsoft-OneDrive.png"
+        "software/variants/Microsoft-OneDrive-Tahoe-2.png",
+        "software/variants/Microsoft-OneDrive.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-OneDrive-Tahoe-1.png",
@@ -25004,8 +24656,7 @@
     },
     "microsoft-onenote": {
       "kbareis_variants": [
-        "software/variants/microsoft-onenote/Microsoft-OneNote-Tahoe.png",
-        "software/variants/microsoft-onenote/Microsoft-OneNote.png"
+        "software/variants/Microsoft-OneNote.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-OneNote-Tahoe.png",
@@ -25014,8 +24665,7 @@
     },
     "microsoft-outlook": {
       "kbareis_variants": [
-        "software/variants/microsoft-outlook/Microsoft-Outlook-Tahoe.png",
-        "software/variants/microsoft-outlook/Microsoft-Outlook.png"
+        "software/variants/Microsoft-Outlook.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Outlook-Tahoe.png",
@@ -25030,8 +24680,7 @@
     },
     "microsoft-powerpoint": {
       "kbareis_variants": [
-        "software/variants/microsoft-powerpoint/Microsoft-PowerPoint-Tahoe.png",
-        "software/variants/microsoft-powerpoint/Microsoft-PowerPoint.png"
+        "software/variants/Microsoft-PowerPoint.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-PowerPoint-Tahoe.png",
@@ -25058,8 +24707,7 @@
     },
     "microsoft-teams": {
       "kbareis_variants": [
-        "software/variants/microsoft-teams/Microsoft-Teams-Tahoe.png",
-        "software/variants/microsoft-teams/Microsoft-Teams.png"
+        "software/variants/Microsoft-Teams.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Teams-Tahoe.png",
@@ -25067,9 +24715,6 @@
       "source": "kbareis-icons"
     },
     "microsoft-teams-new": {
-      "kbareis_variants": [
-        "software/variants/microsoft-teams-new/Microsoft-Teams-New.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Teams-New.png",
       "original_format": "png",
@@ -25089,8 +24734,7 @@
     },
     "microsoft-visual-studio-code": {
       "kbareis_variants": [
-        "software/variants/microsoft-visual-studio-code/Microsoft-Visual-Studio-Code-Tahoe.png",
-        "software/variants/microsoft-visual-studio-code/Microsoft-Visual-Studio-Code.png"
+        "software/variants/Microsoft-Visual-Studio-Code.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Visual-Studio-Code-Tahoe.png",
@@ -25099,8 +24743,7 @@
     },
     "microsoft-word": {
       "kbareis_variants": [
-        "software/variants/microsoft-word/Microsoft-Word-Tahoe.png",
-        "software/variants/microsoft-word/Microsoft-Word.png"
+        "software/variants/Microsoft-Word.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Microsoft-Word-Tahoe.png",
@@ -25139,9 +24782,8 @@
     },
     "migration-assistant": {
       "kbareis_variants": [
-        "software/variants/migration-assistant/Migration-Assistant-2.png",
-        "software/variants/migration-assistant/Migration-Assistant-Tahoe.png",
-        "software/variants/migration-assistant/Migration-Assistant.png"
+        "software/variants/Migration-Assistant-2.png",
+        "software/variants/Migration-Assistant.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Migration-Assistant-Tahoe.png",
@@ -25168,8 +24810,7 @@
     },
     "mission-control": {
       "kbareis_variants": [
-        "software/variants/mission-control/Mission-Control-Tahoe.png",
-        "software/variants/mission-control/Mission-Control.png"
+        "software/variants/Mission-Control.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Mission-Control-Tahoe.png",
@@ -25195,9 +24836,6 @@
       "source": "hcstech-icons"
     },
     "ml": {
-      "kbareis_variants": [
-        "software/variants/ml/ML-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "ML-Tahoe.png",
       "original_format": "png",
@@ -25240,18 +24878,12 @@
       "source": "svgl"
     },
     "motion": {
-      "kbareis_variants": [
-        "software/variants/motion/Motion-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Motion-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "mst": {
-      "kbareis_variants": [
-        "software/variants/mst/MST.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "MST.png",
       "original_format": "png",
@@ -25270,9 +24902,6 @@
       "source": "dashboard-icons"
     },
     "music": {
-      "kbareis_variants": [
-        "software/variants/music/Music-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Music-Tahoe.png",
       "original_format": "png",
@@ -25328,9 +24957,8 @@
     },
     "network": {
       "kbareis_variants": [
-        "software/variants/network/Network-Tahoe-1.png",
-        "software/variants/network/Network-Tahoe-2.png",
-        "software/variants/network/Network.png"
+        "software/variants/Network-Tahoe-2.png",
+        "software/variants/Network.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Network-Tahoe-1.png",
@@ -25338,9 +24966,6 @@
       "source": "kbareis-icons"
     },
     "news": {
-      "kbareis_variants": [
-        "software/variants/news/News-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "News-Tahoe.png",
       "original_format": "png",
@@ -25402,8 +25027,7 @@
     },
     "notes": {
       "kbareis_variants": [
-        "software/variants/notes/Notes-Tahoe.png",
-        "software/variants/notes/Notes.png"
+        "software/variants/Notes.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Notes-Tahoe.png",
@@ -25411,9 +25035,6 @@
       "source": "kbareis-icons"
     },
     "notifications": {
-      "kbareis_variants": [
-        "software/variants/notifications/Notifications.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Notifications.png",
       "original_format": "png",
@@ -25439,8 +25060,7 @@
     },
     "numbers": {
       "kbareis_variants": [
-        "software/variants/numbers/Numbers-Tahoe.png",
-        "software/variants/numbers/Numbers.png"
+        "software/variants/Numbers.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Numbers-Tahoe.png",
@@ -25635,8 +25255,7 @@
     },
     "pages": {
       "kbareis_variants": [
-        "software/variants/pages/Pages-Tahoe.png",
-        "software/variants/pages/Pages.png"
+        "software/variants/Pages.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Pages-Tahoe.png",
@@ -25644,9 +25263,6 @@
       "source": "kbareis-icons"
     },
     "paired-devices": {
-      "kbareis_variants": [
-        "software/variants/paired-devices/Paired-Devices-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Paired-Devices-Tahoe.png",
       "original_format": "png",
@@ -25659,9 +25275,6 @@
       "source": "svgl"
     },
     "panel-editor": {
-      "kbareis_variants": [
-        "software/variants/panel-editor/Panel-Editor-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Panel-Editor-Tahoe.png",
       "original_format": "png",
@@ -25692,9 +25305,6 @@
       "source": "jamfmanager-icons"
     },
     "parallels-client": {
-      "kbareis_variants": [
-        "software/variants/parallels-client/Parallels-Client.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Parallels-Client.png",
       "original_format": "png",
@@ -25714,9 +25324,8 @@
     },
     "passwords": {
       "kbareis_variants": [
-        "software/variants/passwords/Passwords-Tahoe-1.png",
-        "software/variants/passwords/Passwords-Tahoe-2.png",
-        "software/variants/passwords/Passwords.png"
+        "software/variants/Passwords-Tahoe-2.png",
+        "software/variants/Passwords.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Passwords-Tahoe-1.png",
@@ -25784,18 +25393,12 @@
       "source": "dashboard-icons"
     },
     "phone": {
-      "kbareis_variants": [
-        "software/variants/phone/Phone-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Phone-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "photo-booth": {
-      "kbareis_variants": [
-        "software/variants/photo-booth/Photo-Booth-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Photo-Booth-Tahoe.png",
       "original_format": "png",
@@ -25809,8 +25412,7 @@
     },
     "photos": {
       "kbareis_variants": [
-        "software/variants/photos/Photos-Tahoe.png",
-        "software/variants/photos/Photos.png"
+        "software/variants/Photos.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Photos-Tahoe.png",
@@ -25866,9 +25468,6 @@
       "source": "svgl"
     },
     "pip-agent": {
-      "kbareis_variants": [
-        "software/variants/pip-agent/PIP-Agent-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "PIP-Agent-Tahoe.png",
       "original_format": "png",
@@ -25935,9 +25534,6 @@
       "source": "svgl"
     },
     "podcast": {
-      "kbareis_variants": [
-        "software/variants/podcast/Podcast-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Podcast-Tahoe.png",
       "original_format": "png",
@@ -25999,8 +25595,7 @@
     },
     "postman": {
       "kbareis_variants": [
-        "software/variants/postman/Postman-Tahoe.png",
-        "software/variants/postman/Postman.png"
+        "software/variants/Postman.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Postman-Tahoe.png",
@@ -26069,8 +25664,7 @@
     },
     "preview": {
       "kbareis_variants": [
-        "software/variants/preview/Preview-Tahoe.png",
-        "software/variants/preview/Preview.png"
+        "software/variants/Preview.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Preview-Tahoe.png",
@@ -26085,9 +25679,8 @@
     },
     "print-center": {
       "kbareis_variants": [
-        "software/variants/print-center/Print-Center-Tahoe-1.png",
-        "software/variants/print-center/Print-Center-Tahoe-2.png",
-        "software/variants/print-center/Print-Center.png"
+        "software/variants/Print-Center-Tahoe-2.png",
+        "software/variants/Print-Center.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Print-Center-Tahoe-1.png",
@@ -26120,8 +25713,7 @@
     },
     "privileges": {
       "kbareis_variants": [
-        "software/variants/privileges/Privileges-Tahoe-1.png",
-        "software/variants/privileges/Privileges.png"
+        "software/variants/Privileges.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Privileges-Tahoe-1.png",
@@ -26130,8 +25722,7 @@
     },
     "privileges-tahoe-locked": {
       "kbareis_variants": [
-        "software/variants/privileges-tahoe-locked/Privileges-Tahoe-Locked-1.png",
-        "software/variants/privileges-tahoe-locked/Privileges-Tahoe-Locked-2.png"
+        "software/variants/Privileges-Tahoe-Locked-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Privileges-Tahoe-Locked-1.png",
@@ -26140,8 +25731,7 @@
     },
     "privileges-tahoe-unlocked": {
       "kbareis_variants": [
-        "software/variants/privileges-tahoe-unlocked/Privileges-Tahoe-Unlocked-1.png",
-        "software/variants/privileges-tahoe-unlocked/Privileges-Tahoe-Unlocked-2.png"
+        "software/variants/Privileges-Tahoe-Unlocked-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Privileges-Tahoe-Unlocked-1.png",
@@ -26149,9 +25739,6 @@
       "source": "kbareis-icons"
     },
     "pro-display-calibrator": {
-      "kbareis_variants": [
-        "software/variants/pro-display-calibrator/Pro-Display-Calibrator-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Pro-Display-Calibrator-Tahoe.png",
       "original_format": "png",
@@ -26200,9 +25787,6 @@
       "source": "svgl"
     },
     "psso": {
-      "kbareis_variants": [
-        "software/variants/psso/PSSO.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "PSSO.png",
       "original_format": "png",
@@ -26252,8 +25836,7 @@
     },
     "quicktime": {
       "kbareis_variants": [
-        "software/variants/quicktime/Quicktime-Tahoe.png",
-        "software/variants/quicktime/Quicktime.png"
+        "software/variants/Quicktime.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Quicktime-Tahoe.png",
@@ -26357,27 +25940,18 @@
       "source": "svgl"
     },
     "reality-composer-pro": {
-      "kbareis_variants": [
-        "software/variants/reality-composer-pro/Reality-Composer-Pro-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Reality-Composer-Pro-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "recycling-bin": {
-      "kbareis_variants": [
-        "software/variants/recycling-bin/Recycling-Bin.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Recycling-Bin.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "red-button": {
-      "kbareis_variants": [
-        "software/variants/red-button/Red-Button.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Red-Button.png",
       "original_format": "png",
@@ -26427,8 +26001,7 @@
     },
     "reminders": {
       "kbareis_variants": [
-        "software/variants/reminders/Reminders-Tahoe.png",
-        "software/variants/reminders/Reminders.png"
+        "software/variants/Reminders.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Reminders-Tahoe.png",
@@ -26443,8 +26016,7 @@
     },
     "remote-desktop": {
       "kbareis_variants": [
-        "software/variants/remote-desktop/Remote-Desktop-Tahoe.png",
-        "software/variants/remote-desktop/Remote-Desktop.png"
+        "software/variants/Remote-Desktop.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Remote-Desktop-Tahoe.png",
@@ -26591,8 +26163,7 @@
     },
     "safari": {
       "kbareis_variants": [
-        "software/variants/safari/Safari-Tahoe.png",
-        "software/variants/safari/Safari.png"
+        "software/variants/Safari.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Safari-Tahoe.png",
@@ -26636,9 +26207,6 @@
       "source": "hcstech-icons"
     },
     "screen-saver": {
-      "kbareis_variants": [
-        "software/variants/screen-saver/Screen-Saver-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Screen-Saver-Tahoe.png",
       "original_format": "png",
@@ -26646,9 +26214,8 @@
     },
     "screen-sharing": {
       "kbareis_variants": [
-        "software/variants/screen-sharing/Screen-Sharing-Tahoe-1.png",
-        "software/variants/screen-sharing/Screen-Sharing-Tahoe-2.png",
-        "software/variants/screen-sharing/Screen-Sharing.png"
+        "software/variants/Screen-Sharing-Tahoe-2.png",
+        "software/variants/Screen-Sharing.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Screen-Sharing-Tahoe-1.png",
@@ -26657,9 +26224,8 @@
     },
     "screen-time": {
       "kbareis_variants": [
-        "software/variants/screen-time/Screen-Time-Tahoe-1.png",
-        "software/variants/screen-time/Screen-Time-Tahoe-2.png",
-        "software/variants/screen-time/Screen-Time.png"
+        "software/variants/Screen-Time-Tahoe-2.png",
+        "software/variants/Screen-Time.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Screen-Time-Tahoe-1.png",
@@ -26667,9 +26233,6 @@
       "source": "kbareis-icons"
     },
     "screenshot": {
-      "kbareis_variants": [
-        "software/variants/screenshot/Screenshot-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Screenshot-Tahoe.png",
       "original_format": "png",
@@ -26677,8 +26240,7 @@
     },
     "script-editor": {
       "kbareis_variants": [
-        "software/variants/script-editor/Script-Editor-Tahoe.png",
-        "software/variants/script-editor/Script-Editor.png"
+        "software/variants/Script-Editor.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Script-Editor-Tahoe.png",
@@ -26686,9 +26248,6 @@
       "source": "kbareis-icons"
     },
     "self-service": {
-      "kbareis_variants": [
-        "software/variants/self-service/Self-Service.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Self-Service.png",
       "original_format": "png",
@@ -26713,9 +26272,6 @@
       "source": "svgl"
     },
     "setup-assistant": {
-      "kbareis_variants": [
-        "software/variants/setup-assistant/Setup-Assistant-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Setup-Assistant-Tahoe.png",
       "original_format": "png",
@@ -26723,8 +26279,7 @@
     },
     "sf-symbols": {
       "kbareis_variants": [
-        "software/variants/sf-symbols/SF-Symbols-Tahoe.png",
-        "software/variants/sf-symbols/SF-Symbols.png"
+        "software/variants/SF-Symbols.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "SF-Symbols-Tahoe.png",
@@ -26738,9 +26293,6 @@
       "source": "svgl"
     },
     "shazam": {
-      "kbareis_variants": [
-        "software/variants/shazam/Shazam-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Shazam-Tahoe.png",
       "original_format": "png",
@@ -26760,8 +26312,7 @@
     },
     "shortcuts": {
       "kbareis_variants": [
-        "software/variants/shortcuts/Shortcuts-Tahoe.png",
-        "software/variants/shortcuts/Shortcuts.png"
+        "software/variants/Shortcuts.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Shortcuts-Tahoe.png",
@@ -26781,81 +26332,54 @@
       "source": "dashboard-icons"
     },
     "simple-box-red": {
-      "kbareis_variants": [
-        "software/variants/simple-box-red/simple-box-red.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-box-red.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-database-orange": {
-      "kbareis_variants": [
-        "software/variants/simple-database-orange/simple-database-orange.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-database-orange.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-diagnostics-green": {
-      "kbareis_variants": [
-        "software/variants/simple-diagnostics-green/simple-diagnostics-green.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-diagnostics-green.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-folder-blue": {
-      "kbareis_variants": [
-        "software/variants/simple-folder-blue/simple-folder-blue.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-folder-blue.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-games-teal": {
-      "kbareis_variants": [
-        "software/variants/simple-games-teal/simple-games-teal.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-games-teal.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-podcast-purple": {
-      "kbareis_variants": [
-        "software/variants/simple-podcast-purple/simple-podcast-purple.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-podcast-purple.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-tools-yellow": {
-      "kbareis_variants": [
-        "software/variants/simple-tools-yellow/simple-tools-yellow.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-tools-yellow.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simple-web-pink": {
-      "kbareis_variants": [
-        "software/variants/simple-web-pink/simple-web-pink.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "simple-web-pink.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "simulator": {
-      "kbareis_variants": [
-        "software/variants/simulator/Simulator-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Simulator-Tahoe.png",
       "original_format": "png",
@@ -26863,9 +26387,8 @@
     },
     "siri": {
       "kbareis_variants": [
-        "software/variants/siri/Siri-Tahoe-1.png",
-        "software/variants/siri/Siri-Tahoe-2.png",
-        "software/variants/siri/Siri.png"
+        "software/variants/Siri-Tahoe-2.png",
+        "software/variants/Siri.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Siri-Tahoe-1.png",
@@ -26892,8 +26415,7 @@
     },
     "slack": {
       "kbareis_variants": [
-        "software/variants/slack/Slack-Tahoe.png",
-        "software/variants/slack/Slack.png"
+        "software/variants/Slack.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Slack-Tahoe.png",
@@ -26901,9 +26423,6 @@
       "source": "kbareis-icons"
     },
     "smart-card": {
-      "kbareis_variants": [
-        "software/variants/smart-card/Smart-Card-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Smart-Card-Tahoe.png",
       "original_format": "png",
@@ -27006,9 +26525,6 @@
       "source": "dashboard-icons"
     },
     "spotlight": {
-      "kbareis_variants": [
-        "software/variants/spotlight/Spotlight-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Spotlight-Tahoe.png",
       "original_format": "png",
@@ -27081,9 +26597,6 @@
       "source": "dashboard-icons"
     },
     "stickies": {
-      "kbareis_variants": [
-        "software/variants/stickies/Stickies-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Stickies-Tahoe.png",
       "original_format": "png",
@@ -27102,9 +26615,6 @@
       "source": "svgl"
     },
     "stocks": {
-      "kbareis_variants": [
-        "software/variants/stocks/Stocks-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Stocks-Tahoe.png",
       "original_format": "png",
@@ -27171,9 +26681,6 @@
       "source": "svgl"
     },
     "summary-service": {
-      "kbareis_variants": [
-        "software/variants/summary-service/Summary-Service-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Summary-Service-Tahoe.png",
       "original_format": "png",
@@ -27193,8 +26700,7 @@
     },
     "support-app": {
       "kbareis_variants": [
-        "software/variants/support-app/Support-App-Tahoe.png",
-        "software/variants/support-app/Support-App.png"
+        "software/variants/Support-App.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Support-App-Tahoe.png",
@@ -27244,18 +26750,12 @@
       "source": "svgl"
     },
     "swift-playground": {
-      "kbareis_variants": [
-        "software/variants/swift-playground/Swift-Playground-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Swift-Playground-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "swift-playgrounds": {
-      "kbareis_variants": [
-        "software/variants/swift-playgrounds/Swift-Playgrounds.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Swift-Playgrounds.png",
       "original_format": "png",
@@ -27269,10 +26769,9 @@
     },
     "sync": {
       "kbareis_variants": [
-        "software/variants/sync/Sync-1.png",
-        "software/variants/sync/Sync-2.png",
-        "software/variants/sync/Sync-Tahoe-1.png",
-        "software/variants/sync/Sync-Tahoe-2.png"
+        "software/variants/Sync-1.png",
+        "software/variants/Sync-2.png",
+        "software/variants/Sync-Tahoe-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Sync-Tahoe-1.png",
@@ -27281,8 +26780,7 @@
     },
     "system-information": {
       "kbareis_variants": [
-        "software/variants/system-information/System-Information-Tahoe.png",
-        "software/variants/system-information/System-Information.png"
+        "software/variants/System-Information.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "System-Information-Tahoe.png",
@@ -27291,10 +26789,9 @@
     },
     "system-settings": {
       "kbareis_variants": [
-        "software/variants/system-settings/System-Settings-Tahoe-1.png",
-        "software/variants/system-settings/System-Settings-Tahoe-2.png",
-        "software/variants/system-settings/System-Settings-Tahoe-3.png",
-        "software/variants/system-settings/System-Settings.png"
+        "software/variants/System-Settings-Tahoe-2.png",
+        "software/variants/System-Settings-Tahoe-3.png",
+        "software/variants/System-Settings.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "System-Settings-Tahoe-1.png",
@@ -27356,9 +26853,6 @@
       "source": "svgl"
     },
     "team-icon": {
-      "kbareis_variants": [
-        "software/variants/team-icon/Team-Icon.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Team-Icon.png",
       "original_format": "png",
@@ -27408,8 +26902,7 @@
     },
     "terminal": {
       "kbareis_variants": [
-        "software/variants/terminal/Terminal-Tahoe.png",
-        "software/variants/terminal/Terminal.png"
+        "software/variants/Terminal.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Terminal-Tahoe.png",
@@ -27435,9 +26928,6 @@
       "source": "jamfmanager-icons"
     },
     "textedit": {
-      "kbareis_variants": [
-        "software/variants/textedit/TextEdit-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "TextEdit-Tahoe.png",
       "original_format": "png",
@@ -27469,9 +26959,8 @@
     },
     "ticket-viewer": {
       "kbareis_variants": [
-        "software/variants/ticket-viewer/Ticket-Viewer-Tahoe-1.png",
-        "software/variants/ticket-viewer/Ticket-Viewer-Tahoe-2.png",
-        "software/variants/ticket-viewer/Ticket-Viewer.png"
+        "software/variants/Ticket-Viewer-Tahoe-2.png",
+        "software/variants/Ticket-Viewer.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Ticket-Viewer-Tahoe-1.png",
@@ -27498,8 +26987,7 @@
     },
     "time-machine": {
       "kbareis_variants": [
-        "software/variants/time-machine/Time-Machine-Tahoe.png",
-        "software/variants/time-machine/Time-Machine.png"
+        "software/variants/Time-Machine.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Time-Machine-Tahoe.png",
@@ -27514,9 +27002,8 @@
     },
     "tips": {
       "kbareis_variants": [
-        "software/variants/tips/Tips-Tahoe-1.png",
-        "software/variants/tips/Tips-Tahoe-2.png",
-        "software/variants/tips/Tips.png"
+        "software/variants/Tips-Tahoe-2.png",
+        "software/variants/Tips.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Tips-Tahoe-1.png",
@@ -27543,8 +27030,7 @@
     },
     "token-info": {
       "kbareis_variants": [
-        "software/variants/token-info/Token-Info-Tahoe.png",
-        "software/variants/token-info/Token-Info.png"
+        "software/variants/Token-Info.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Token-Info-Tahoe.png",
@@ -27558,9 +27044,6 @@
       "source": "svgl"
     },
     "tools": {
-      "kbareis_variants": [
-        "software/variants/tools/Tools.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Tools.png",
       "original_format": "png",
@@ -27705,9 +27188,6 @@
       "source": "dashboard-icons"
     },
     "universal-control": {
-      "kbareis_variants": [
-        "software/variants/universal-control/Universal-Control-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Universal-Control-Tahoe.png",
       "original_format": "png",
@@ -27751,10 +27231,9 @@
     },
     "user-group": {
       "kbareis_variants": [
-        "software/variants/user-group/User-Group-1.png",
-        "software/variants/user-group/User-Group-2.png",
-        "software/variants/user-group/User-Group-3-Tahoe.png",
-        "software/variants/user-group/User-Group-3.png"
+        "software/variants/User-Group-1.png",
+        "software/variants/User-Group-2.png",
+        "software/variants/User-Group-3.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "User-Group-3-Tahoe.png",
@@ -27763,8 +27242,7 @@
     },
     "user-single": {
       "kbareis_variants": [
-        "software/variants/user-single/User-Single-1.png",
-        "software/variants/user-single/User-Single-2.png"
+        "software/variants/User-Single-2.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "User-Single-1.png",
@@ -27802,9 +27280,6 @@
       "source": "svgl"
     },
     "vcard": {
-      "kbareis_variants": [
-        "software/variants/vcard/vCard.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "vCard.png",
       "original_format": "png",
@@ -27872,8 +27347,7 @@
     },
     "vlc": {
       "kbareis_variants": [
-        "software/variants/vlc/VLC-Tahoe.png",
-        "software/variants/vlc/VLC.png"
+        "software/variants/VLC.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "VLC-Tahoe.png",
@@ -27893,9 +27367,6 @@
       "source": "jamfmanager-icons"
     },
     "voice-memos": {
-      "kbareis_variants": [
-        "software/variants/voice-memos/Voice-Memos-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Voice-Memos-Tahoe.png",
       "original_format": "png",
@@ -27909,8 +27380,7 @@
     },
     "voiceover": {
       "kbareis_variants": [
-        "software/variants/voiceover/VoiceOver-Tahoe.png",
-        "software/variants/voiceover/VoiceOver.png"
+        "software/variants/VoiceOver.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "VoiceOver-Tahoe.png",
@@ -27930,9 +27400,6 @@
       "source": "svgl"
     },
     "vpn": {
-      "kbareis_variants": [
-        "software/variants/vpn/VPN.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "VPN.png",
       "original_format": "png",
@@ -27988,8 +27455,7 @@
     },
     "wallet": {
       "kbareis_variants": [
-        "software/variants/wallet/Wallet-Tahoe.png",
-        "software/variants/wallet/Wallet.png"
+        "software/variants/Wallet.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Wallet-Tahoe.png",
@@ -27997,9 +27463,6 @@
       "source": "kbareis-icons"
     },
     "wallpaper": {
-      "kbareis_variants": [
-        "software/variants/wallpaper/Wallpaper-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Wallpaper-Tahoe.png",
       "original_format": "png",
@@ -28018,18 +27481,12 @@
       "source": "hcstech-icons"
     },
     "weather": {
-      "kbareis_variants": [
-        "software/variants/weather/Weather-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Weather-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
     },
     "web-app": {
-      "kbareis_variants": [
-        "software/variants/web-app/Web-App-Tahoe.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Web-App-Tahoe.png",
       "original_format": "png",
@@ -28043,8 +27500,7 @@
     },
     "webex": {
       "kbareis_variants": [
-        "software/variants/webex/Webex-Tahoe.png",
-        "software/variants/webex/Webex.png"
+        "software/variants/Webex.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Webex-Tahoe.png",
@@ -28094,9 +27550,6 @@
       "source": "svgl"
     },
     "wi-fi": {
-      "kbareis_variants": [
-        "software/variants/wi-fi/Wi-Fi.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Wi-Fi.png",
       "original_format": "png",
@@ -28104,8 +27557,7 @@
     },
     "widgets": {
       "kbareis_variants": [
-        "software/variants/widgets/Widgets-Tahoe.png",
-        "software/variants/widgets/Widgets.png"
+        "software/variants/Widgets.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Widgets-Tahoe.png",
@@ -28114,8 +27566,7 @@
     },
     "wifi-explorer": {
       "kbareis_variants": [
-        "software/variants/wifi-explorer/WiFi-Explorer-Tahoe.png",
-        "software/variants/wifi-explorer/WiFi-Explorer.png"
+        "software/variants/WiFi-Explorer.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "WiFi-Explorer-Tahoe.png",
@@ -28142,8 +27593,7 @@
     },
     "wireguard": {
       "kbareis_variants": [
-        "software/variants/wireguard/WireGuard-Tahoe.png",
-        "software/variants/wireguard/Wireguard.png"
+        "software/variants/Wireguard.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "WireGuard-Tahoe.png",
@@ -28152,8 +27602,7 @@
     },
     "wireless-diagnostics": {
       "kbareis_variants": [
-        "software/variants/wireless-diagnostics/Wireless-Diagnostics-Tahoe.png",
-        "software/variants/wireless-diagnostics/Wireless-Diagnostics.png"
+        "software/variants/Wireless-Diagnostics.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Wireless-Diagnostics-Tahoe.png",
@@ -28204,9 +27653,8 @@
     },
     "xcode": {
       "kbareis_variants": [
-        "software/variants/xcode/Xcode-Tahoe-1.png",
-        "software/variants/xcode/Xcode-Tahoe-2.png",
-        "software/variants/xcode/Xcode.png"
+        "software/variants/Xcode-Tahoe-2.png",
+        "software/variants/Xcode.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Xcode-Tahoe-1.png",
@@ -28214,9 +27662,6 @@
       "source": "kbareis-icons"
     },
     "xcreds": {
-      "kbareis_variants": [
-        "software/variants/xcreds/Xcreds.png"
-      ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Xcreds.png",
       "original_format": "png",
@@ -28308,8 +27753,7 @@
     },
     "zoom": {
       "kbareis_variants": [
-        "software/variants/zoom/Zoom-Tahoe.png",
-        "software/variants/zoom/Zoom.png"
+        "software/variants/Zoom.png"
       ],
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Zoom-Tahoe.png",

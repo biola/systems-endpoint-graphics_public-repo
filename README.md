@@ -20,8 +20,10 @@ All `software/*.png` files are 512x512 PNGs with the icon content normalized to 
 software/
 ├── <slug>.png             # primary asset — 512x512, ~90% content fill, transparent padding
 ├── svg/<slug>.svg         # vector original, only when the winning source provided one
-└── variants/<slug>/       # kbareis-sourced apps only: every captured mode (Tahoe light/
-                            # dark/clear/tinted + legacy), even the ones not picked as primary
+└── variants/               # kbareis-sourced apps only: every OTHER captured mode (Tahoe
+                            # light/dark/clear/tinted + legacy) not picked as primary, as a
+                            # flat directory of original kbareis filenames (see manifest.json's
+                            # kbareis_variants list per slug to find an app's variants)
 
 software-old/               # the pre-2026-07-17-revamp software/ build, kept for rollback
 
