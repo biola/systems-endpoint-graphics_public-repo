@@ -1,6 +1,6 @@
 # License
 
-This is a **mixed-license repository**: it aggregates icon assets from multiple upstream sources, each under its own license (Apache-2.0, MIT, CC0-1.0, and two sources with no explicit license used under an educational fair-use rationale). See [ATTRIBUTION.md](ATTRIBUTION.md) for the full per-source breakdown, and `_meta/manifest.json` for the exact source of every individual shipped icon.
+This is a **mixed-license repository**: it aggregates icon assets from multiple upstream sources, each under its own license (Apache-2.0, MIT, CC0-1.0, two sources with no explicit license used under an educational fair-use rationale, one private source used under personal authorization from its owner, and one API source whose icons are individually-submitted community work requiring per-icon creator attribution). See [ATTRIBUTION.md](ATTRIBUTION.md) for the full per-source breakdown, and `_meta/manifest.json` for the exact source — and, for macosicons.com-sourced icons, the individual creator credit — of every shipped icon.
 
 **Individual icon assets** (everything under `software/` and `generic/`) retain whatever license their original upstream source carries. Nothing in this repository relicenses those assets — this repo only deduplicates, renames, and re-renders them to a consistent format.
 

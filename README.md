@@ -18,8 +18,12 @@ All `software/*.png` files are 512x512 PNGs with the icon content normalized to 
 
 ```
 software/
-├── <slug>.png       # primary asset — 512x512, ~90% content fill, transparent padding
-└── svg/<slug>.svg   # vector original, only when the winning source provided one
+├── <slug>.png             # primary asset — 512x512, ~90% content fill, transparent padding
+├── svg/<slug>.svg         # vector original, only when the winning source provided one
+└── variants/<slug>/       # kbareis-sourced apps only: every captured mode (Tahoe light/
+                            # dark/clear/tinted + legacy), even the ones not picked as primary
+
+software-old/               # the pre-2026-07-17-revamp software/ build, kept for rollback
 
 generic/
 └── monochrome/
@@ -28,7 +32,9 @@ generic/
                               # since transparent black-on-transparent glyphs vanish on dark UIs
 
 _meta/
-├── manifest.json       # slug -> source/license/original-filename for every shipped icon
+├── manifest.json       # slug -> source/license/original-filename (+ per-icon creator credit
+│                        # for macosicons.com-sourced icons) for every shipped icon
+├── manifest-old.json   # manifest.json as it was before the 2026-07-17 revamp
 ├── DEDUP_LOG.md         # what got dropped as a duplicate and why, per pipeline run
 └── RENDER_FAILURES.md   # any source files that failed to render (malformed SVGs, etc.)
 ```
@@ -47,6 +53,8 @@ This repo is built and maintained via a scripted pipeline (acquire → dedupe �
 
 ## Phasing
 
-**Phase 1** (current): curated small sources pulled in full, plus `dashboard-icons` filtered to software Biola actually deploys (Installomator's supported-app list + an internal Mac-lab software inventory). `simple-icons` is included in full for generic monochrome glyphs.
+**Phase 1** (superseded 2026-07-17): curated small sources pulled in full, plus `dashboard-icons` filtered to software Biola actually deploys (Installomator's supported-app list + an internal Mac-lab software inventory). `simple-icons` is included in full for generic monochrome glyphs. The `software/` build from this phase is preserved at `software-old/`.
 
-**Phase 2** (not yet built): broader `dashboard-icons` coverage and `selfhst/icons` (self-hosted/homelab app icons), added only if real gaps show up in day-to-day use — deferred initially to avoid shipping thousands of icons for software Biola doesn't deploy.
+**Phase 2 — squirqle/Tahoe revamp** (current, 2026-07-17): re-prioritized `software/` around the "squirqle" macOS app-icon shape and official Tahoe icon renders, in priority order: [kbareis/icons](https://github.com/kbareis/icons) (private, personally authorized) → JamfManager-Icons → macosicons.com (API, budget-capped gap-fill for Biola's relevant software) → dashboard-icons → svgl → HCSTech-icons (last-resort fallbacks). `simple-icons` generic monochrome glyphs are untouched by this revamp.
+
+**Phase 3** (not yet built): broader `dashboard-icons` coverage and `selfhst/icons` (self-hosted/homelab app icons), added only if real gaps show up in day-to-day use — deferred initially to avoid shipping thousands of icons for software Biola doesn't deploy.
