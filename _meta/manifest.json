@@ -20813,6 +20813,18 @@
       "original_format": "png",
       "source": "hcstech-icons"
     },
+    "adobe-cc-full-suite": {
+      "kbareis_variants": [
+        "software/variants/Adobe-Creative-Cloud-Tahoe-2.png",
+        "software/variants/Adobe-Creative-Cloud-Tahoe-3.png",
+        "software/variants/Adobe-Creative-Cloud-Tahoe-4.png",
+        "software/variants/Adobe-Creative-Cloud.png"
+      ],
+      "license": "private (personal authorization from repo owner)",
+      "original_filename": "Adobe-Creative-Cloud-Tahoe-1.png",
+      "original_format": "png",
+      "source": "kbareis-icons"
+    },
     "adobe-connect": {
       "license": "none (fair use / educational)",
       "original_filename": "Adobe Connect.png",
@@ -21376,6 +21388,21 @@
       "original_format": "png",
       "source": "kbareis-icons"
     },
+    "avid-media-composer": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "techtalkf",
+        "credit_url": null,
+        "downloads": 78,
+        "matched_app_name": "AvidMediaComposer - Dark",
+        "object_id": "46X4EVmfi7",
+        "uploaded_by_profile": "https://macosicons.com/#/u/techtalkf"
+      },
+      "original_filename": "avid-media-composer.png",
+      "original_format": "png",
+      "source": "macosicons"
+    },
     "aws": {
       "license": "MIT",
       "original_filename": "aws_light.svg",
@@ -21520,6 +21547,21 @@
         "uploaded_by_profile": "https://macosicons.com/#/u/eldershi"
       },
       "original_filename": "blackmagic-proxy-generator.png",
+      "original_format": "png",
+      "source": "macosicons"
+    },
+    "blackmagic-raw": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "andreas",
+        "credit_url": null,
+        "downloads": 474,
+        "matched_app_name": "Blackmagic RAW Speed Test",
+        "object_id": "pMS7HNnuq2",
+        "uploaded_by_profile": "https://macosicons.com/#/u/andreas"
+      },
+      "original_filename": "blackmagic-raw.png",
       "original_format": "png",
       "source": "macosicons"
     },
@@ -21826,6 +21868,36 @@
       "original_filename": "Cinebench.png",
       "original_format": "png",
       "source": "kbareis-icons"
+    },
+    "cinema-4d": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "Denis Palchak",
+        "credit_url": "https://dribbble.com/ways196",
+        "downloads": 870,
+        "matched_app_name": "Cinema 4D",
+        "object_id": "7jCDDuRwQt",
+        "uploaded_by_profile": "https://macosicons.com/#/u/Denis Palchak"
+      },
+      "original_filename": "cinema-4d.png",
+      "original_format": "png",
+      "source": "macosicons"
+    },
+    "cineware": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "Anmol Govinda Rao",
+        "credit_url": "https://dribbble.com/agraaaaao",
+        "downloads": 75,
+        "matched_app_name": "Cineware",
+        "object_id": "me9uD1idhR",
+        "uploaded_by_profile": "https://macosicons.com/#/u/Anmol Govinda Rao"
+      },
+      "original_filename": "cineware.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "cisco": {
       "license": "MIT",
@@ -22198,6 +22270,36 @@
       "original_filename": "datadog.svg",
       "original_format": "svg",
       "source": "svgl"
+    },
+    "davinci-resolve-free": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "weilian",
+        "credit_url": null,
+        "downloads": 1212,
+        "matched_app_name": "DaVinci Resolve",
+        "object_id": "bFrGtwFGRe",
+        "uploaded_by_profile": "https://macosicons.com/#/u/weilian"
+      },
+      "original_filename": "davinci-resolve-free.png",
+      "original_format": "png",
+      "source": "macosicons"
+    },
+    "davinci-resolve-studio": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "weilian",
+        "credit_url": null,
+        "downloads": 1212,
+        "matched_app_name": "DaVinci Resolve",
+        "object_id": "bFrGtwFGRe",
+        "uploaded_by_profile": "https://macosicons.com/#/u/weilian"
+      },
+      "original_filename": "davinci-resolve-studio.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "daylite": {
       "license": "none (fair use / educational)",
@@ -22607,6 +22709,18 @@
       "original_format": "png",
       "source": "kbareis-icons"
     },
+    "epic-games": {
+      "license": "Apache-2.0",
+      "original_filename": "epic-games.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "epic-games-launcher": {
+      "license": "Apache-2.0",
+      "original_filename": "epic-games.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
     "epicgames": {
       "license": "MIT",
       "original_filename": "epicgames-icon-light.svg",
@@ -22778,6 +22892,21 @@
       "original_filename": "Final-Cut-Pro-Tahoe.png",
       "original_format": "png",
       "source": "kbareis-icons"
+    },
+    "final-draft": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "CactusDoux",
+        "credit_url": null,
+        "downloads": 277,
+        "matched_app_name": "Final Draft",
+        "object_id": "BCYUnzIfwh",
+        "uploaded_by_profile": "https://macosicons.com/#/u/CactusDoux"
+      },
+      "original_filename": "final-draft.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "find-my": {
       "kbareis_variants": [
@@ -23691,6 +23820,21 @@
       "original_format": "svg",
       "source": "svgl"
     },
+    "ilok-license-manager": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "@possiblyfreddy",
+        "credit_url": null,
+        "downloads": 635,
+        "matched_app_name": "iLok License Manager",
+        "object_id": "mIW8PAQzjg",
+        "uploaded_by_profile": "https://macosicons.com/#/u/@possiblyfreddy"
+      },
+      "original_filename": "ilok-license-manager.png",
+      "original_format": "png",
+      "source": "macosicons"
+    },
     "image-capture": {
       "license": "private (personal authorization from repo owner)",
       "original_filename": "Image-Capture-Tahoe.png",
@@ -23874,6 +24018,36 @@
       "original_filename": "ivy-framework.svg",
       "original_format": "svg",
       "source": "svgl"
+    },
+    "izotope-rx-advanced": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "jobheger",
+        "credit_url": "Job Heger",
+        "downloads": 270,
+        "matched_app_name": "iZotope RX 9 Audio Editor",
+        "object_id": "7YXWIu9MeW",
+        "uploaded_by_profile": "https://macosicons.com/#/u/jobheger"
+      },
+      "original_filename": "izotope-rx-advanced.png",
+      "original_format": "png",
+      "source": "macosicons"
+    },
+    "izotope-rx-standard": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "jobheger",
+        "credit_url": "Job Heger",
+        "downloads": 270,
+        "matched_app_name": "iZotope RX 9 Audio Editor",
+        "object_id": "7YXWIu9MeW",
+        "uploaded_by_profile": "https://macosicons.com/#/u/jobheger"
+      },
+      "original_filename": "izotope-rx-standard.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "jamf": {
       "kbareis_variants": [
@@ -24099,6 +24273,21 @@
       "original_filename": "krakenjs.svg",
       "original_format": "svg",
       "source": "svgl"
+    },
+    "krita": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "YeongminWare",
+        "credit_url": null,
+        "downloads": 1527,
+        "matched_app_name": "Krita",
+        "object_id": "YlCIzXsNvM",
+        "uploaded_by_profile": "https://macosicons.com/#/u/YeongminWare"
+      },
+      "original_filename": "krita.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "kubernetes": {
       "license": "MIT",
@@ -24438,6 +24627,21 @@
       "original_filename": "mattermost.svg",
       "original_format": "svg",
       "source": "dashboard-icons"
+    },
+    "maya": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "Marisa",
+        "credit_url": null,
+        "downloads": 362,
+        "matched_app_name": "Autodesk Maya",
+        "object_id": "1EI3UMbOeo",
+        "uploaded_by_profile": "https://macosicons.com/#/u/Marisa"
+      },
+      "original_filename": "maya.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "media-encoder": {
       "license": "MIT",
@@ -25130,6 +25334,12 @@
     "obsidian": {
       "license": "Apache-2.0",
       "original_filename": "obsidian.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "oculus": {
+      "license": "Apache-2.0",
+      "original_filename": "oculus.svg",
       "original_format": "svg",
       "source": "dashboard-icons"
     },
@@ -25843,6 +26053,15 @@
       "original_format": "png",
       "source": "kbareis-icons"
     },
+    "quicktime-player": {
+      "kbareis_variants": [
+        "software/variants/Quicktime.png"
+      ],
+      "license": "private (personal authorization from repo owner)",
+      "original_filename": "Quicktime-Tahoe.png",
+      "original_format": "png",
+      "source": "kbareis-icons"
+    },
     "qwen": {
       "license": "MIT",
       "original_filename": "qwen_light.svg",
@@ -26034,6 +26253,21 @@
       "original_filename": "render_black.svg",
       "original_format": "svg",
       "source": "svgl"
+    },
+    "renpy": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "rakleed",
+        "credit_url": null,
+        "downloads": 71,
+        "matched_app_name": "Ren'Py",
+        "object_id": "PUr3Ta8Lut",
+        "uploaded_by_profile": "https://macosicons.com/#/u/rakleed"
+      },
+      "original_filename": "renpy.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "replicate": {
       "license": "MIT",
@@ -26511,6 +26745,21 @@
       "original_filename": "spinnaker.svg",
       "original_format": "svg",
       "source": "svgl"
+    },
+    "spitfire-audio": {
+      "attribution_required": true,
+      "license": "per-icon community submission (macosicons.com API, attribution required)",
+      "macosicons_credit": {
+        "creator": "lostmybass",
+        "credit_url": null,
+        "downloads": 384,
+        "matched_app_name": "Spitfire Audio",
+        "object_id": "ZkqbB6JmUt",
+        "uploaded_by_profile": "https://macosicons.com/#/u/lostmybass"
+      },
+      "original_filename": "spitfire-audio.png",
+      "original_format": "png",
+      "source": "macosicons"
     },
     "splashtop": {
       "license": "none (fair use / educational)",
@@ -27182,6 +27431,12 @@
       "source": "svgl"
     },
     "unity": {
+      "license": "Apache-2.0",
+      "original_filename": "unity.svg",
+      "original_format": "svg",
+      "source": "dashboard-icons"
+    },
+    "unity-hub": {
       "license": "Apache-2.0",
       "original_filename": "unity.svg",
       "original_format": "svg",

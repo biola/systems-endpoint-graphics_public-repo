@@ -21,11 +21,16 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 
 ## full run
 
+- `adobe-cc-full-suite`: published as an alias of `adobe-creative-cloud` (same source file)
+- `epic-games-launcher`: published as an alias of `epic-games` (same source file)
+- `quicktime-player`: published as an alias of `quicktime` (same source file)
+- `unity-hub`: published as an alias of `unity` (same source file)
 - `1password`: kept `kbareis-icons/1Password.png` (priority 1), dropped alternates: svgl/1password-light.svg, svgl/1password-dark.svg, hcstech-icons/1Password.png
 - `abacatepay`: kept `svgl/abacatepay.svg` (priority 5), dropped alternates: svgl/abacatepay-wordmark.svg
 - `accessibility-app`: kept `kbareis-icons/Accessibility-App-Tahoe-1.png` (priority 1), dropped alternates: kbareis-icons/Accessibility-App-Tahoe-2.png
 - `accessibility-reader`: kept `kbareis-icons/Accessibility-Reader-Tahoe-1.png` (priority 1), dropped alternates: kbareis-icons/Accessibility-Reader-Tahoe-2.png
 - `activity-monitor`: kept `kbareis-icons/Activity-Monitor-Tahoe.png` (priority 1), dropped alternates: kbareis-icons/Activity-Monitor.png
+- `adobe-cc-full-suite`: kept `kbareis-icons/Adobe-Creative-Cloud-Tahoe-1.png` (priority 1), dropped alternates: kbareis-icons/Adobe-Creative-Cloud-Tahoe-2.png, kbareis-icons/Adobe-Creative-Cloud-Tahoe-3.png, kbareis-icons/Adobe-Creative-Cloud-Tahoe-4.png, kbareis-icons/Adobe-Creative-Cloud.png, hcstech-icons/Adobe_Creative_Cloud.png
 - `adobe-creative-cloud`: kept `kbareis-icons/Adobe-Creative-Cloud-Tahoe-1.png` (priority 1), dropped alternates: kbareis-icons/Adobe-Creative-Cloud-Tahoe-2.png, kbareis-icons/Adobe-Creative-Cloud-Tahoe-3.png, kbareis-icons/Adobe-Creative-Cloud-Tahoe-4.png, kbareis-icons/Adobe-Creative-Cloud.png, hcstech-icons/Adobe_Creative_Cloud.png
 - `adobe-xd`: kept `svgl/adobe-xd.svg` (priority 5), dropped alternates: hcstech-icons/Adobe_XD.png
 - `ahooks`: kept `svgl/ahooks.svg` (priority 5), dropped alternates: svgl/ahooks-wordmark-dark.svg, svgl/ahooks-wordmark-light.svg
@@ -120,6 +125,8 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `element`: kept `dashboard-icons/element.svg` (priority 4), dropped alternates: dashboard-icons/element.png
 - `emacs`: kept `dashboard-icons/emacs.svg` (priority 4), dropped alternates: dashboard-icons/emacs.png, svgl/emacs.svg
 - `endnote`: `jamfmanager-icons/EndNote 21.png` is byte-identical to `jamfmanager-icons/EndNote 20.png` — skipped as exact duplicate
+- `epic-games`: kept `dashboard-icons/epic-games.svg` (priority 4), dropped alternates: dashboard-icons/epic-games.png
+- `epic-games-launcher`: kept `dashboard-icons/epic-games.svg` (priority 4), dropped alternates: dashboard-icons/epic-games.png
 - `epicgames`: kept `svgl/epicgames-icon-light.svg` (priority 5), dropped alternates: svgl/epicgames-icon-dark.svg
 - `erase-assistant`: kept `kbareis-icons/Erase-Assistant-Tahoe.png` (priority 1), dropped alternates: kbareis-icons/Erase-Assistant.png
 - `eslint`: kept `svgl/eslint-icon-light.svg` (priority 5), dropped alternates: svgl/eslint-icon-dark.svg, svgl/eslint-wordmark-dark.svg, svgl/eslint-wordmark-light.svg
@@ -274,6 +281,7 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `nx`: kept `svgl/nx_light.svg` (priority 5), dropped alternates: svgl/nx_dark.svg
 - `obs`: kept `svgl/obs.svg` (priority 5), dropped alternates: hcstech-icons/OBS.png
 - `obsidian`: kept `dashboard-icons/obsidian.svg` (priority 4), dropped alternates: dashboard-icons/obsidian.png, svgl/obsidian.svg
+- `oculus`: kept `dashboard-icons/oculus.svg` (priority 4), dropped alternates: dashboard-icons/oculus.png
 - `ollama`: kept `dashboard-icons/ollama.svg` (priority 4), dropped alternates: dashboard-icons/ollama.png, svgl/ollama_light.svg, svgl/ollama_dark.svg
 - `openai`: kept `svgl/openai.svg` (priority 5), dropped alternates: svgl/openai_dark.svg, svgl/openai_wordmark_dark.svg, svgl/openai_wordmark_light.svg
 - `opencode`: kept `svgl/opencode.svg` (priority 5), dropped alternates: svgl/opencode-dark.svg, svgl/opencode-wordmark-dark.svg, svgl/opencode-wordmark.svg
@@ -319,6 +327,7 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `python`: kept `dashboard-icons/python.svg` (priority 4), dropped alternates: dashboard-icons/python.png, svgl/python.svg
 - `qdrant`: kept `svgl/qdrant-icon-light.svg` (priority 5), dropped alternates: svgl/qdrant-icon-dark.svg, svgl/qdrant-wordmark-dark.svg, svgl/qdrant-wordmark-light.svg
 - `quicktime`: kept `kbareis-icons/Quicktime-Tahoe.png` (priority 1), dropped alternates: kbareis-icons/Quicktime.png
+- `quicktime-player`: kept `kbareis-icons/Quicktime-Tahoe.png` (priority 1), dropped alternates: kbareis-icons/Quicktime.png
 - `qwen`: kept `svgl/qwen_light.svg` (priority 5), dropped alternates: svgl/qwen_dark.svg
 - `r`: kept `jamfmanager-icons/R.png` (priority 2), dropped alternates: dashboard-icons/r.svg, dashboard-icons/r.png, svgl/r.svg, svgl/r_dark.svg
 - `radix-ui`: kept `svgl/radix-ui_light.svg` (priority 5), dropped alternates: svgl/radix-ui_dark.svg
@@ -406,6 +415,7 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `uber`: kept `svgl/uber_light.svg` (priority 5), dropped alternates: svgl/uber_dark.svg
 - `udemy`: kept `svgl/udemy.svg` (priority 5), dropped alternates: svgl/udemy_dark.svg
 - `unity`: kept `dashboard-icons/unity.svg` (priority 4), dropped alternates: dashboard-icons/unity.png, svgl/unity.svg, svgl/unity_dark.svg
+- `unity-hub`: kept `dashboard-icons/unity.svg` (priority 4), dropped alternates: dashboard-icons/unity.png, svgl/unity.svg, svgl/unity_dark.svg
 - `unreal-engine`: kept `svgl/unreal_engine.svg` (priority 5), dropped alternates: svgl/unreal_engine_dark.svg
 - `upleveled`: kept `svgl/upleveled.svg` (priority 5), dropped alternates: svgl/upleveled-wordmark.svg
 - `user-group`: kept `kbareis-icons/User-Group-3-Tahoe.png` (priority 1), dropped alternates: kbareis-icons/User-Group-1.png, kbareis-icons/User-Group-2.png, kbareis-icons/User-Group-3.png
