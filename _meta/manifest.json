@@ -28862,6 +28862,13 @@
       "rendered_sha256": "c965744c001b3c7bcb988815d6a47208ae30cde265e4c27886013a7a7c6dbbe4",
       "source": "jamfmanager-icons"
     },
+    "wacom-tablet-driver": {
+      "license": "none (fair use / educational)",
+      "original_filename": "Wacom Tablet.png",
+      "original_format": "png",
+      "rendered_sha256": "c965744c001b3c7bcb988815d6a47208ae30cde265e4c27886013a7a7c6dbbe4",
+      "source": "jamfmanager-icons"
+    },
     "wakatime": {
       "license": "MIT",
       "original_filename": "wakatime-light.svg",
