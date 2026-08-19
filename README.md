@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/biola/systems-endpoint-graphics_public-repo/ma
 
 For example, Slack's icon: `https://raw.githubusercontent.com/biola/systems-endpoint-graphics_public-repo/main/software/slack.png`
 
+A small number of icons come from sources that only published a low-resolution, colour-quantized original (a 256x256 8-bit PNG with a dithered gradient). Those are reconstructed at render time — the dither pattern is resolved back into a smooth gradient rather than being scaled up into visible grain — so they may read very slightly softer than a vector-sourced icon, but not speckled.
+
 All `software/*.png` files are 512x512 PNGs with the icon content normalized to fill ~90% of the canvas (a consistent margin regardless of source), so icons from different sources look consistent side-by-side — this matters because tools like [Baseline](https://github.com/SecondSonConsulting/Baseline) (built on [swiftDialog](https://github.com/swiftDialog/swiftDialog)) display supplied PNGs as-is with no automatic padding of their own.
 
 ## Folder structure
