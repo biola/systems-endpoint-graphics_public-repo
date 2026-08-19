@@ -21927,6 +21927,13 @@
       "rendered_sha256": "6854f5c07e79bbd26ca9ce82b2499e7f9b2f8803b5de0c8165332974c5bf610c",
       "source": "kbareis-icons"
     },
+    "canon-ij-scan-utility": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "canon-ij-scan-utility-logo.avif",
+      "original_format": "avif",
+      "rendered_sha256": "fb698fc49ff1483bcae53dda93edce559adbf7cf655b2b4791a57ab79bfe97d3",
+      "source": "local-icons"
+    },
     "canva": {
       "license": "MIT",
       "original_filename": "canva.svg",
@@ -21982,6 +21989,13 @@
       "original_format": "svg",
       "rendered_sha256": "08d4afb1c31cecae781fceea0eab1c5792d04a5c1e5f4fa94e446bbc7feb997c",
       "source": "svgl"
+    },
+    "cavalry": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "Calvary icon.jpg",
+      "original_format": "jpg",
+      "rendered_sha256": "19abba4f67b6ee7a9c83249afbf2127cf51a5d9335ffa50055137bdbf84d8635",
+      "source": "local-icons"
     },
     "cerebras": {
       "license": "MIT",
@@ -24403,6 +24417,13 @@
       "rendered_sha256": "14ae2f588d36d894816287e755e8e8b03a72ec1b87801f0aade0d95e96971d3d",
       "source": "svgl"
     },
+    "inkscape": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "inkscape icon.jpg",
+      "original_format": "jpg",
+      "rendered_sha256": "ebbbbf69fb25bd1cdab571b2ac7bcffaaf5822eab82bff33f0ad68b9ae02aaec",
+      "source": "local-icons"
+    },
     "inngest": {
       "license": "MIT",
       "original_filename": "inngest-light.svg",
@@ -26784,6 +26805,13 @@
       "rendered_sha256": "c62cebac8fa35bf6e0e3ff03be3c30e49ef921a7b412009c24b2008d64dd385c",
       "source": "local-icons"
     },
+    "processing": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "Processing.svg",
+      "original_format": "svg",
+      "rendered_sha256": "d958fe9e8cb054a38b5425a3b337a3d69786ab842da7b66d70f655adbc895f3e",
+      "source": "local-icons"
+    },
     "processortype": {
       "license": "none (fair use / educational)",
       "original_filename": "ProcessorType.png",
@@ -27382,6 +27410,13 @@
       "original_format": "png",
       "rendered_sha256": "5959e586727a23d89d94e87730a51c72c03df66087724da88e86161776f39a57",
       "source": "kbareis-icons"
+    },
+    "scribus": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "scribus.webp",
+      "original_format": "webp",
+      "rendered_sha256": "c089eb179693b1315fef5d306db89fa1f86a2815ef43fdd5acabd33535aa4bc6",
+      "source": "local-icons"
     },
     "script-editor": {
       "kbareis_variants": [
@@ -28337,12 +28372,33 @@
       "rendered_sha256": "e6ca37a7076e378790abb9dfa928a1d5a1e2246449ba33184d146dc074dc8912",
       "source": "kbareis-icons"
     },
+    "toon-boom-harmony": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "toon boom harmony.jpg",
+      "original_format": "jpg",
+      "rendered_sha256": "b836f066ee162e11d46d64be8c047b9b0a085117f31f8d98e11db663651134a8",
+      "source": "local-icons"
+    },
+    "toon-boom-storyboard-pro": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "storyboard-pro-logo.webp",
+      "original_format": "webp",
+      "rendered_sha256": "6715beb91bea99c1df6c0a495217bbc83d594d61d4c1652330b10f70007475de",
+      "source": "local-icons"
+    },
     "tor": {
       "license": "MIT",
       "original_filename": "tor.svg",
       "original_format": "svg",
       "rendered_sha256": "c4f5b2b58fa3c71e970f1257300e9565f71d22dacaa0c3954daa2e0bc14ed18c",
       "source": "svgl"
+    },
+    "touchdesigner": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "touchdesigner.png",
+      "original_format": "png",
+      "rendered_sha256": "e6124b5f7ee9cc32ecb2f419d86e9c1eac6def492487a3354ba275cea3b2cf9c",
+      "source": "local-icons"
     },
     "travelperk": {
       "license": "MIT",
