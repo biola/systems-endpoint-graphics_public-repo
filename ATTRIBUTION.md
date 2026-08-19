@@ -8,6 +8,7 @@ Revamped 2026-07-17: kbareis/icons and macosicons.com were added, and the priori
 
 | Priority | Source | License | Notes |
 |---|---|---|---|
+| 0 | Hand-supplied by Biola IT Systems Engineering | Varies per icon — vendor artwork used for app identification under the same educational/identification rationale described at the bottom of this file | Added 2026-08-19. Art that a Biola admin sourced deliberately for a specific deployment, because no upstream collection had the correct icon (or only had a poor-quality version of it). Highest priority: a human who went and found the right icon for a named deployment beats any bulk collection. Supplied by dropping the file into the pipeline's `local-icons` source, **not** by uploading into this repo directly — a direct upload has no manifest entry, skips the 512x512/fill normalization, and gets overwritten the next time the pipeline runs. |
 | 1 | [kbareis/icons](https://github.com/kbareis/icons) | Private — personal authorization from the repo owner (a Biola-affiliated Apple colleague), not a public open-source license | Pulled in full (273 apps). Prefers the official macOS Tahoe squircle render when the colleague captured one (picking the default/light mode among light/dark/clear/tinted captures), falling back to their legacy-style capture otherwise. Every captured mode is preserved under `software/variants/`, not just the primary pick. |
 | 2 | [technotica/JamfManager-Icons](https://github.com/technotica/JamfManager-Icons) | No explicit license | Pulled in full. Jamf-admin-curated collection, predominantly squirqle-shaped; used here under the same fair-use rationale it's already commonly used under in the Jamf-admin community, for identification purposes as part of Biola's own software deployment tooling (educational institution). |
 | 3 | [macosicons.com](https://www.macosicons.com) (API) — **retired 2026-08-04, no longer acquired from** | Per-icon community submission — **attribution required per icon** | Used only to fill gaps in Biola's own relevant-software list that neither kbareis nor JamfManager-Icons cover, under a hard-capped paid-tier API query budget (2 keys × 50 queries/month). Each icon is an individual community member's submission, not a blanket-licensed collection — macosicons.com's terms require crediting macOSicons.com and the original creator for every icon used, not just the source as a whole. Per-icon creator credit (submitter name, profile link, download count at time of pull) is recorded in `_meta/manifest.json` under `macosicons_credit` for every slug sourced this way — see that file for the full list rather than duplicating it here. |
@@ -42,6 +43,8 @@ content and identical attribution.
 | `quicktime-player` | `quicktime` | kbareis/icons |
 | `unity-hub` | `unity` | homarr-labs/dashboard-icons |
 | `epic-games-launcher` | `epic-games` | homarr-labs/dashboard-icons |
+| `pro-tools-studio` | `pro-tools` | hand-supplied |
+| `pro-tools-ultimate` | `pro-tools` | hand-supplied |
 
 ## macosicons.com retirement (2026-08-04)
 

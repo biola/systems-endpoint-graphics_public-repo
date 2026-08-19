@@ -20765,6 +20765,12 @@
       "original_format": "png",
       "source": "hcstech-icons"
     },
+    "admin-user": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "admin-user.png",
+      "original_format": "png",
+      "source": "local-icons"
+    },
     "adobe": {
       "license": "MIT",
       "original_filename": "adobe.svg",
@@ -21389,19 +21395,10 @@
       "source": "kbareis-icons"
     },
     "avid-media-composer": {
-      "attribution_required": true,
-      "license": "per-icon community submission (macosicons.com API, attribution required)",
-      "macosicons_credit": {
-        "creator": "techtalkf",
-        "credit_url": null,
-        "downloads": 78,
-        "matched_app_name": "AvidMediaComposer - Dark",
-        "object_id": "46X4EVmfi7",
-        "uploaded_by_profile": "https://macosicons.com/#/u/techtalkf"
-      },
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
       "original_filename": "avid-media-composer.png",
       "original_format": "png",
-      "source": "macosicons"
+      "source": "local-icons"
     },
     "aws": {
       "license": "MIT",
@@ -21510,6 +21507,12 @@
       "original_filename": "Bio.png",
       "original_format": "png",
       "source": "hcstech-icons"
+    },
+    "biola-logo": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "biola-logo.png",
+      "original_format": "png",
+      "source": "local-icons"
     },
     "biomejs": {
       "license": "MIT",
@@ -22287,19 +22290,10 @@
       "source": "macosicons"
     },
     "davinci-resolve-studio": {
-      "attribution_required": true,
-      "license": "per-icon community submission (macosicons.com API, attribution required)",
-      "macosicons_credit": {
-        "creator": "weilian",
-        "credit_url": null,
-        "downloads": 1212,
-        "matched_app_name": "DaVinci Resolve",
-        "object_id": "bFrGtwFGRe",
-        "uploaded_by_profile": "https://macosicons.com/#/u/weilian"
-      },
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
       "original_filename": "davinci-resolve-studio.png",
       "original_format": "png",
-      "source": "macosicons"
+      "source": "local-icons"
     },
     "daylite": {
       "license": "none (fair use / educational)",
@@ -25954,6 +25948,24 @@
       "original_format": "png",
       "source": "kbareis-icons"
     },
+    "pro-tools": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "pro-tools.png",
+      "original_format": "png",
+      "source": "local-icons"
+    },
+    "pro-tools-studio": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "pro-tools.png",
+      "original_format": "png",
+      "source": "local-icons"
+    },
+    "pro-tools-ultimate": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "pro-tools.png",
+      "original_format": "png",
+      "source": "local-icons"
+    },
     "processortype": {
       "license": "none (fair use / educational)",
       "original_filename": "ProcessorType.png",
@@ -27791,6 +27803,12 @@
       "original_filename": "wechat.svg",
       "original_format": "svg",
       "source": "dashboard-icons"
+    },
+    "wepa": {
+      "license": "hand-supplied by Biola IT Systems Engineering (see ATTRIBUTION.md)",
+      "original_filename": "wepa.png",
+      "original_format": "png",
+      "source": "local-icons"
     },
     "whatsapp": {
       "license": "Apache-2.0",

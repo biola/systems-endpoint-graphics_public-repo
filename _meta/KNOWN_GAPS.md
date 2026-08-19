@@ -9,12 +9,14 @@ plausible-but-wrong icon in a Jamf/Baseline install list is worse than no icon, 
 monochrome brand glyphs in `generic/monochrome/` are not a substitute for a `software/`
 app icon — they render as solid black on transparent, which disappears on dark UIs.
 
-## 2026-08-04 — Jamf/Baseline 42-app deployment batch (34 of 42 shipped)
+## 2026-08-04 — Jamf/Baseline 42-app deployment batch (36 of 42 shipped)
+
+Originally 34 of 42. **Pro Tools Studio and Pro Tools Ultimate were resolved on 2026-08-19**
+by hand-supplied Avid artwork (see the priority-0 source in
+[ATTRIBUTION.md](../ATTRIBUTION.md)); both now ship as aliases of `pro-tools`.
 
 | App | Reason no icon is shipped |
 |---|---|
-| Pro Tools Studio | Correct art exists on macosicons.com but the stored object returns `403`; that source is now retired. Not present in any other source. |
-| Pro Tools Ultimate | Same as Pro Tools Studio. |
 | Avid Link | Correct art exists on macosicons.com but all four candidate objects return `504`; that source is now retired. Not present in any other source. |
 | AvidApplicationManager | Not present in any available source. |
 | Line Budgeter | Not present in any available source. |
@@ -35,6 +37,8 @@ pixel-accurate, and so they're easy to upgrade if better art turns up.
 | Slug | What's actually shipped |
 |---|---|
 | `blackmagic-raw` | The **Blackmagic RAW Speed Test** app icon (a speedometer). Correct vendor and RAW branding, but that's Blackmagic's benchmarking utility, not a RAW player/codec icon. |
-| `davinci-resolve-studio` | Currently **identical to `davinci-resolve-free`**. A Studio-specific submission exists upstream but its object was unreachable. The separate slug is intentional so Studio can be given its own art later without touching the Free URL. |
 | `izotope-rx-standard`, `izotope-rx-advanced` | The **iZotope RX 9 Audio Editor** icon (both editions share it). The requested deployment is RX 12; iZotope's RX artwork is stable enough across versions for identification purposes. |
-| `avid-media-composer` | The dark-appearance variant of the Media Composer icon — the light/default variant's object was unreachable. |
+
+Resolved 2026-08-19 by hand-supplied art, and no longer approximate: `davinci-resolve-studio`
+(was identical to the Free edition, now has its own artwork) and `avid-media-composer` (was
+the dark-appearance variant reconstructed from a quantized source).

@@ -23,6 +23,8 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 
 - `adobe-cc-full-suite`: published as an alias of `adobe-creative-cloud` (same source file)
 - `epic-games-launcher`: published as an alias of `epic-games` (same source file)
+- `pro-tools-studio`: published as an alias of `pro-tools` (same source file)
+- `pro-tools-ultimate`: published as an alias of `pro-tools` (same source file)
 - `quicktime-player`: published as an alias of `quicktime` (same source file)
 - `unity-hub`: published as an alias of `unity` (same source file)
 - `1password`: kept `kbareis-icons/1Password.png` (priority 1), dropped alternates: svgl/1password-light.svg, svgl/1password-dark.svg, hcstech-icons/1Password.png
@@ -61,6 +63,7 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `astro`: kept `svgl/astro-icon-light.svg` (priority 5), dropped alternates: svgl/astro-icon-dark.svg, svgl/astro-wordmark-dark.svg, svgl/astro-wordmark-light.svg
 - `audacity`: kept `kbareis-icons/Audacity-Tahoe.png` (priority 1), dropped alternates: kbareis-icons/Audacity.png, jamfmanager-icons/Audacity.png, dashboard-icons/audacity.svg, dashboard-icons/audacity.png, hcstech-icons/Audacity.png
 - `automator`: kept `kbareis-icons/Automator-Tahoe-1.png` (priority 1), dropped alternates: kbareis-icons/Automator-Tahoe-2.png, kbareis-icons/Automator-Tahoe-3.png, kbareis-icons/Automator.png
+- `avid-media-composer`: kept `local-icons/avid-media-composer.png` (priority 0), dropped alternates: macosicons/avid-media-composer.png
 - `aws`: kept `svgl/aws_light.svg` (priority 5), dropped alternates: svgl/aws_dark.svg
 - `axiom`: kept `svgl/axiom-light.svg` (priority 5), dropped alternates: svgl/axiom-dark.svg, svgl/axiom-wordmark-dark.svg, svgl/axiom-wordmark-light.svg
 - `base-ui`: kept `svgl/base-ui.svg` (priority 5), dropped alternates: svgl/base-ui-dark.svg
@@ -100,6 +103,7 @@ Records which alternate/duplicate icons were dropped in favor of a higher-priori
 - `curseforge`: kept `svgl/curseforge.svg` (priority 5), dropped alternates: svgl/curseforge-dark.svg, svgl/curseforge-wordmark-dark.svg, svgl/curseforge-wordmark.svg
 - `cursor`: kept `svgl/cursor_light.svg` (priority 5), dropped alternates: svgl/cursor_dark.svg, svgl/cursor_wordmark_dark.svg, svgl/cursor_wordmark_light.svg
 - `cyberduck`: kept `jamfmanager-icons/Cyberduck.png` (priority 2), dropped alternates: hcstech-icons/Cyberduck.png
+- `davinci-resolve-studio`: kept `local-icons/davinci-resolve-studio.png` (priority 0), dropped alternates: macosicons/davinci-resolve-studio.png
 - `deepl`: kept `dashboard-icons/deepl.svg` (priority 4), dropped alternates: dashboard-icons/deepl.png
 - `deepseek`: kept `svgl/deepseek.svg` (priority 5), dropped alternates: svgl/deepseek_wordmark.svg
 - `deezer`: kept `dashboard-icons/deezer.svg` (priority 4), dropped alternates: dashboard-icons/deezer.png

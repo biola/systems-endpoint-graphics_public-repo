@@ -61,6 +61,8 @@ See [ATTRIBUTION.md](ATTRIBUTION.md) for the full per-source license breakdown. 
 
 This repo is built and maintained via a scripted pipeline (acquire → dedupe → standardize → commit), not by hand-uploading individual files. If an icon you need is missing, check `_meta/manifest.json` for what's shipped and [`_meta/KNOWN_GAPS.md`](_meta/KNOWN_GAPS.md) for apps already investigated and found unavailable — then reach out to IT Systems Engineering to have it added in the next pipeline run.
 
+**Please don't upload an icon directly into this repo, even to fix a bad one.** Hand-supplied art is genuinely welcome — it's the highest-priority source and beats every upstream collection — but it has to enter through the pipeline, which is a separate step IT Systems Engineering runs. A file uploaded straight into `software/` gets no `manifest.json` entry recording where it came from, skips the 512x512 and fill-ratio normalization (so it renders a different size than its neighbours in Baseline/swiftDialog), and — if it replaces an icon the manifest already tracks — is silently reverted to the old artwork the next time the pipeline runs. Send the file to IT Systems Engineering instead and it will be added properly, with attribution recorded.
+
 ## Phasing
 
 **Phase 1** (superseded 2026-07-17): curated small sources pulled in full, plus `dashboard-icons` filtered to software Biola actually deploys (Installomator's supported-app list + an internal Mac-lab software inventory). `simple-icons` is included in full for generic monochrome glyphs. The `software/` build from this phase is preserved at `software-old/`.
